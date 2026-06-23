@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<airport_log>
+
+<record>
+<log_id>1</log_id>
+<timestamp>07/14/2022 12:18:17</timestamp>
+<airport_code>KTA</airport_code>
+<flight_number>DL456</flight_number>
+<departure_city>Nkayi</departure_city>
+<arrival_city>Libertad</arrival_city>
+<passenger_count>254</passenger_count>
+<flight_status>On Time</flight_status>
+<gate_number>1</gate_number>
+<airline_name>Avamba</airline_name>
+<FastTrack>Premium</FastTrack>
+</record>
+
+<record>
+<log_id>2</log_id>
+<timestamp>09/02/2022 15:13:01</timestamp>
+<airport_code>YBH</airport_code>
+<flight_number>UA789</flight_number>
+<departure_city>Nkayi</departure_city>
+<arrival_city>San Salvador</arrival_city>
+<passenger_count>120</passenger_count>
+<flight_status>On Time</flight_status>
+<gate_number>28</gate_number>
+<airline_name>Rhynoodle</airline_name>
+<FastTrack>Premium</FastTrack>
+</record>
+
+</airport_log>
+
+

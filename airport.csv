@@ -1,0 +1,1001 @@
+log_id,timestamp,airport_code,flight_number,departure_city,arrival_city,passenger_count,flight_status,gate_number,airline_name,FastTrack
+1,10/01/2022 07:03:53,UJE,AA123,Otterburn Park,Buritama,358,On Time,30,Podcat,Standard
+2,06/12/2022 06:55:32,MJM,UA789,Caruaru,Turmi,359,Delayed,30,Blogspan,None
+3,06/06/2022 08:04:17,CCV,DL456,Venado Tuerto,Genova,265,Delayed,22,Wikibox,Standard
+4,10/26/2022 02:59:23,YTF,UA789,Penglai,Al Khafsah,291,Delayed,7,Buzzdog,Standard
+5,01/06/2022 13:30:19,KNJ,UA789,Wangdian,Loreto,148,Delayed,17,Ntag,None
+6,04/19/2022 19:58:12,TLJ,AA123,Sidomulyo,Mujães,56,Delayed,10,Zoomdog,Premium
+7,07/26/2022 07:57:55,FDA,UA789,Xinfang,Ngorongoro,168,Delayed,13,Avavee,Premium
+8,08/01/2022 06:23:36,HUV,UA789,Eséka,Guangping,368,On Time,3,Blogtag,Premium
+9,06/09/2022 17:23:36,VDE,UA789,,Finspång,129,Cancelled,5,Npath,Premium
+10,11/17/2022 14:41:14,PSN,UA789,Barão de Melgaço,Kintinku,160,Delayed,26,Livetube,None
+11,06/07/2022 04:09:44,SQJ,UA789,Foča,Xijiadian,174,Cancelled,2,Agivu,Standard
+12,11/13/2022 23:35:33,FLM,UA789,Obispos,Baisha,312,Cancelled,4,Oozz,Standard
+13,07/02/2022 01:32:55,XTO,DL456,Lodan Wetan,Sukhobuzimskoye,153,Delayed,14,Rhynoodle,Premium
+14,07/27/2022 01:25:28,TDW,AA123,Praia da Tocha,Caluquembe,120,On Time,2,Wordtune,Premium
+15,04/05/2022 21:43:29,KDC,DL456,Turośń Kościelna,Nantes,111,On Time,19,Feedfire,Premium
+16,06/11/2022 04:15:08,NHZ,DL456,Colonia Nicolich,Dukay,353,Delayed,10,Trunyx,None
+17,04/18/2022 21:17:47,KEJ,UA789,Molinos,Bafia,339,Cancelled,16,Quire,None
+18,01/15/2022 08:29:48,HEG,DL456,Honghualiangzi,Hekou,305,Delayed,6,Voomm,Standard
+19,09/19/2022 18:00:46,PBI,UA789,Lingbei,Žirovnica,121,Delayed,23,Tanoodle,None
+20,03/26/2022 10:05:16,TEA,DL456,Vila Franca da Beira,Haradok,165,On Time,21,Yodo,Premium
+21,06/10/2022 19:52:26,FCH,AA123,Sukamulya,Koutsopódi,6,Delayed,11,Brainsphere,Standard
+22,12/20/2022 04:17:09,AVI,AA123,Sindangkopo,Las Palmas,247,Delayed,21,Gigazoom,Standard
+23,04/01/2022 12:38:27,AQP,DL456,Luti,Kimry,183,On Time,29,Muxo,None
+24,10/03/2022 15:26:44,GON,AA123,Laguna,Portela,155,On Time,14,Tekfly,None
+25,10/25/2022 06:12:50,QSZ,DL456,Mende,Jingdezhen,279,Cancelled,30,Bubblebox,Premium
+26,04/24/2022 19:45:57,OBE,UA789,Pukhavichy,Ulundi,326,On Time,6,Bubblemix,Standard
+27,01/21/2022 21:51:11,GSI,UA789,Angoram,Wanglinkou,15,Cancelled,11,Avamm,Premium
+28,07/03/2022 08:06:27,COE,DL456,Hekou,Blois,328,Cancelled,10,Oyoyo,Premium
+29,11/02/2022 18:24:20,TRV,AA123,Da’ao,Panggungasri,53,On Time,11,Babbleopia,Premium
+30,08/29/2022 02:10:34,NAR,DL456,Limoeiro,Moita,366,Delayed,3,Devbug,Premium
+31,06/09/2022 10:25:44,FDY,DL456,New York City,Méru,134,Delayed,29,Yabox,Premium
+32,03/07/2022 00:36:40,AHC,UA789,Nonohonis,Rochester,306,Delayed,6,Zoozzy,None
+33,05/19/2022 19:54:42,SOC,UA789,,Dauphin,274,Delayed,10,Kanoodle,None
+34,09/14/2022 19:23:32,YAK,AA123,Ampasimanolotra,Veisiejai,133,Delayed,11,Yambee,None
+35,12/12/2022 01:41:02,SCE,AA123,Londres,Chambray-lès-Tours,365,On Time,18,Avaveo,None
+36,07/08/2022 04:45:30,BSL,AA123,Tamra,Huagu,239,Delayed,12,Tagcat,Standard
+37,06/29/2022 23:33:43,WDI,DL456,Lanas,Shanjiao,147,On Time,25,Minyx,Standard
+38,02/01/2022 21:12:57,MCE,DL456,Suvorov,Pinyug,73,On Time,21,Skalith,Standard
+39,05/09/2022 04:00:14,LKO,UA789,Chittagong,Dongjiao,270,Cancelled,27,Centimia,Standard
+40,08/17/2022 16:30:39,KJI,DL456,Niš,Los Algarrobos,242,Cancelled,18,Babbleblab,Premium
+41,06/01/2022 02:37:44,BID,AA123,Avignon,Neiva,251,Cancelled,18,Cogilith,None
+42,10/09/2022 23:43:13,KOJ,UA789,Kathmandu,Saint-Marcellin,193,On Time,23,Yadel,Standard
+43,05/24/2022 15:03:54,YAA,UA789,Krasnodon,Lisiy Nos,323,Cancelled,30,Dynava,Standard
+44,05/12/2022 23:12:36,SEB,DL456,Milevsko,Zwierzyniec,138,Cancelled,12,Skynoodle,Standard
+45,10/31/2022 05:44:04,YRB,UA789,Numazu,Caçapava,57,Delayed,19,Zoomlounge,None
+46,04/16/2022 21:13:46,TDK,UA789,,Dorp Tera Kora,148,Delayed,13,Tanoodle,None
+47,01/28/2022 00:24:59,VST,AA123,Omuo-Ekiti,Mayisyan,349,Cancelled,28,Skiptube,Premium
+48,12/27/2022 17:36:52,ENU,UA789,Xingang,Ducheng,322,Cancelled,3,Vimbo,Premium
+49,02/10/2022 14:34:27,SBV,DL456,Leigongjian,Caparrapí,171,Delayed,23,Dynabox,Standard
+50,01/20/2022 05:42:12,HGE,UA789,Tukuyu,Niš,45,Delayed,24,Brainbox,Premium
+51,08/04/2022 06:04:04,MCE,AA123,Kambaxoi,Columbus,124,On Time,4,Rhynyx,Premium
+52,09/04/2022 12:53:45,CCJ,DL456,Néa Pélla,Hobaramachi,327,Cancelled,26,Miboo,Standard
+53,10/16/2022 16:48:32,ODL,AA123,Yong’an,Salamá,375,Delayed,22,Trudeo,None
+54,06/16/2022 12:58:30,LCO,UA789,El Sombrero,Diadi,27,Delayed,7,Meeveo,None
+55,10/19/2022 16:11:17,RMY,AA123,Trpinja,Formosa do Rio Preto,65,Cancelled,27,Feedmix,Premium
+56,12/10/2022 09:10:08,RSW,UA789,Piskavica,Kajanan,80,Cancelled,23,Twinder,Premium
+57,01/26/2022 21:33:26,ZRZ,AA123,Tonshayevo,Butere,50,On Time,13,Meeveo,Premium
+58,10/09/2022 09:39:13,PHS,UA789,Lameira,Brněnec,249,On Time,14,Linktype,Premium
+59,06/30/2022 12:36:13,TSP,UA789,Jiuxi,Iecava,377,Cancelled,23,Rooxo,Standard
+60,08/22/2022 00:46:08,VNX,UA789,,Mós,62,On Time,4,Bubbletube,None
+61,04/16/2022 16:55:07,HBD,DL456,Aguas Corrientes,Hengxizhen,266,Delayed,16,Janyx,Premium
+62,08/26/2022 11:10:24,LNF,AA123,,Nekrasovka,397,Cancelled,30,Lazz,None
+63,01/03/2022 11:55:57,KLN,DL456,Mercedes,Brikama,310,Delayed,15,Skidoo,None
+64,04/21/2022 15:53:08,IRP,AA123,Yataity del Norte,Hukvaldy,64,Delayed,27,Oba,None
+65,11/13/2022 17:07:57,UKH,AA123,Öldziyt,Kairouan,124,On Time,27,Vimbo,None
+66,08/31/2022 14:07:06,ENU,DL456,Shazhou,Boston,185,Cancelled,8,Centimia,Standard
+67,04/28/2022 18:16:43,HIS,UA789,Vysehrad,Minji,216,Cancelled,30,Yodo,Premium
+68,10/31/2022 16:55:41,SSB,UA789,Erie,Estique,386,Cancelled,24,Innotype,Premium
+69,05/10/2022 12:56:43,AAM,DL456,Nacka,Longhuashan,141,Delayed,24,Wikizz,None
+70,10/08/2022 12:54:56,ITB,AA123,Karangkeng,Kurchaloy,78,Delayed,19,Shuffletag,Premium
+71,05/10/2022 18:27:03,PDU,AA123,Lidoríki,Nuku‘alofa,390,Delayed,1,Feedfish,Premium
+72,01/22/2022 22:25:38,KHH,UA789,Jasper Park Lodge,Jeponkrajan,320,On Time,26,Feednation,Standard
+73,02/23/2022 08:11:26,BND,UA789,Dashiju,Hamar,200,On Time,25,Jaxbean,Standard
+74,06/26/2022 10:26:46,LYT,AA123,Zhangjiawo,Côn Sơn,247,Cancelled,21,Fadeo,Premium
+75,03/01/2022 21:14:20,RKI,DL456,Oslo,Vuka,323,Delayed,22,Skyba,Premium
+76,01/06/2022 11:04:37,KWX,AA123,Raposeira,Huanggang,131,Delayed,3,Innotype,None
+77,03/09/2022 04:22:03,HST,DL456,Jiangnan,Triolet,149,Delayed,25,Pixope,Standard
+78,07/21/2022 12:19:54,VAF,AA123,Philadelphia,Pipa,186,On Time,13,Skyvu,Premium
+79,04/22/2022 14:16:20,MJS,AA123,Kwali,Yên Bái,336,On Time,21,Vinder,Standard
+80,07/13/2022 22:09:07,VEY,AA123,Chengjiao Chengguanzhen,Campraksanta,189,Cancelled,14,Riffwire,Standard
+81,05/19/2022 04:07:10,QCO,AA123,Cikomara,Rogóźno,213,Cancelled,27,Jaloo,Premium
+82,05/03/2022 04:42:30,OSZ,AA123,Jimenez,Haradok,249,Cancelled,9,Skipfire,Premium
+83,04/01/2022 19:13:39,NND,DL456,Tagbilaran City,Almeirim,231,Cancelled,9,Youbridge,None
+84,04/10/2022 22:59:48,YTX,DL456,Taoxi,Paraíso,196,Cancelled,17,Chatterbridge,None
+85,09/30/2022 08:31:14,NYI,UA789,,Oliveira,165,On Time,6,Trupe,Standard
+86,12/29/2022 15:38:57,TOA,AA123,Canha,Jōetsu,153,Delayed,21,Devshare,Premium
+87,09/19/2022 02:04:38,ASY,UA789,Cileuya,Dolati,202,On Time,1,Teklist,None
+88,11/13/2022 12:44:41,FFD,DL456,Adraskan,Suponevo,8,On Time,19,Rhycero,Standard
+89,07/05/2022 02:04:06,PTG,DL456,,Lamawalang,147,Delayed,2,Jabberstorm,Premium
+90,08/16/2022 23:22:29,GEE,AA123,Decatur,Lunyuk Ode,63,Cancelled,30,Devshare,None
+91,04/07/2022 17:14:40,ZYI,AA123,Khromtau,Fuzihe,217,On Time,15,Yadel,Premium
+92,04/08/2022 15:25:10,CTR,DL456,Oxelösund,Dadong’ao,235,Delayed,25,Zoonoodle,Standard
+93,12/09/2022 09:36:30,SRV,UA789,Si Satchanalai,Gálvez,230,On Time,25,Tagpad,Standard
+94,12/26/2022 19:32:18,ASS,UA789,,Nahrīn,145,Cancelled,9,Quaxo,Standard
+95,06/04/2022 12:44:30,PHS,UA789,Dabbūrīya,Jorf,202,On Time,25,Feedfish,None
+96,08/07/2022 21:33:13,TOB,UA789,Xiji,Dallas,397,Cancelled,14,Gigazoom,Premium
+97,03/03/2022 01:07:02,FYN,DL456,Huashan,Bandera,339,Delayed,27,Kwideo,Standard
+98,12/28/2022 01:14:28,SYE,AA123,Sanli,Al Jawf,311,Delayed,7,Oyope,None
+99,08/23/2022 05:14:08,YFO,UA789,Caofang,Tlogowungu,155,Delayed,26,Gabtype,Premium
+100,09/18/2022 02:31:36,KLV,DL456,Ballymahon,Brikcha,102,On Time,5,Muxo,Premium
+101,02/06/2022 13:29:19,HYA,UA789,Buenaventura,Yaopi,3,Cancelled,15,Miboo,None
+102,06/28/2022 10:37:52,CAO,UA789,Oematnunu,Teuva,33,Cancelled,20,Fanoodle,Premium
+103,08/29/2022 03:04:00,LUZ,AA123,Hafnarfjörður,Kobleve,157,Cancelled,6,Geba,None
+104,12/18/2022 22:22:24,SCH,DL456,Al Qanāwiş,Cergy-Pontoise,115,On Time,25,Eimbee,None
+105,10/25/2022 02:33:38,YZU,AA123,Wasquehal,Florencio Varela,135,On Time,29,Pixonyx,None
+106,04/25/2022 05:51:03,FRZ,AA123,Huacheng,Huanshi,202,Delayed,23,Yata,Premium
+107,04/28/2022 13:56:03,SFB,AA123,Sofádes,Alacaygan,89,On Time,5,Trupe,None
+108,12/11/2022 06:45:57,OSG,AA123,Rejanegara,Jetis,106,Cancelled,18,Twimm,Standard
+109,08/23/2022 23:29:58,MGS,DL456,Kargasok,Terenozek,218,Delayed,26,Digitube,Standard
+110,08/13/2022 00:57:41,YYZ,UA789,,Perlez,226,Delayed,5,Dabjam,Standard
+111,03/27/2022 12:51:49,VVC,AA123,Guaçuí,Vangaži,4,Delayed,21,Thoughtworks,None
+112,07/21/2022 07:54:52,LBL,DL456,Barra de Carrasco,Efkarpía,202,Cancelled,22,Voolia,Premium
+113,07/03/2022 16:03:25,OTD,AA123,,Baicheng,50,Cancelled,5,Bluejam,Premium
+114,11/24/2022 17:56:58,MXU,AA123,Tobias Barreto,Monte Azul Paulista,96,On Time,14,Trupe,Standard
+115,09/21/2022 16:40:15,ITU,AA123,Yabuli,Magdaleno Aguilar,316,Cancelled,24,Cogidoo,Premium
+116,08/02/2022 17:26:21,IPU,UA789,Las Garcitas,Calumpang,383,On Time,19,Buzzster,None
+117,10/13/2022 09:45:34,GTW,DL456,Verkhniy Rohachyk,Yoshii,84,Cancelled,5,Buzzshare,Premium
+118,09/25/2022 04:55:45,MPW,AA123,Francisco Morato,Jinsheng,48,Delayed,20,Youspan,Premium
+119,09/20/2022 03:04:14,RBF,UA789,Adstock,Kungsbacka,135,On Time,25,Quinu,None
+120,12/23/2022 23:33:03,LMP,AA123,Carvalho,Depok,272,Delayed,28,Blogpad,Standard
+121,02/14/2022 19:04:06,MHO,UA789,Ikoma,São José de Mipibu,92,Cancelled,16,Yakidoo,Standard
+122,08/03/2022 05:49:05,JUO,AA123,Sestroretsk,Tengger,55,On Time,27,Yacero,Standard
+123,12/23/2022 10:11:35,XSD,UA789,Pulilan,Kedungkrajan,367,On Time,7,Wikido,Premium
+124,12/17/2022 19:37:01,GRC,DL456,Khashuri,Berezovo,274,Cancelled,11,Thoughtblab,Standard
+125,03/31/2022 07:07:45,FLF,DL456,Qinglong,Driyorejo,380,Delayed,4,Rhyloo,Standard
+126,10/17/2022 13:27:55,SJT,AA123,Québec,Trnava,373,Delayed,12,Camido,Premium
+127,09/28/2022 13:25:06,PCT,UA789,Kosong,Log pri Brezovici,125,Delayed,2,Fivebridge,None
+128,02/16/2022 08:38:06,HOM,AA123,Santo António das Areias,Yuntan,224,Cancelled,15,Meezzy,Premium
+129,05/27/2022 20:50:42,AYN,UA789,Inicbulan,Cambebba,2,Cancelled,28,Shuffledrive,None
+130,03/11/2022 22:15:46,MGN,UA789,,Unaí,107,On Time,14,Quamba,Premium
+131,08/08/2022 21:01:35,MAV,AA123,Tarko-Sale,Mandeman Daya,229,Cancelled,4,BlogXS,Standard
+132,12/19/2022 02:26:07,TDA,UA789,Bolboc,Dollard-Des Ormeaux,172,On Time,28,Cogibox,Standard
+133,05/27/2022 22:47:05,OTV,DL456,Dundee,Celestynów,230,On Time,29,Feednation,Standard
+134,08/31/2022 22:14:12,PCA,UA789,Zitong,Santana do Paraíso,166,On Time,23,Youopia,Standard
+135,10/31/2022 05:19:49,SFO,DL456,Jiyang,Burrel,106,Cancelled,20,Yodel,None
+136,07/12/2022 17:07:11,KSO,UA789,Wielgie,Caramanta,10,On Time,10,Katz,Standard
+137,12/29/2022 14:52:54,NIT,DL456,Arcossó,Fengqiao,130,Delayed,10,Dynabox,Standard
+138,10/16/2022 20:04:44,SZA,AA123,Esteio,Jabłonowo Pomorskie,49,On Time,6,Zoombeat,Premium
+139,05/19/2022 19:55:27,KPT,AA123,Kaoshan,Kandangan,399,On Time,1,InnoZ,None
+140,08/18/2022 17:35:33,TYN,DL456,Xincheng,Jiangpu,301,On Time,30,Tavu,None
+141,08/10/2022 11:47:16,WAZ,AA123,Zigong,Baoxu,162,Cancelled,4,Feedbug,Standard
+142,06/29/2022 08:50:53,ECS,UA789,,Shaba,11,Cancelled,24,Eamia,Standard
+143,02/19/2022 21:49:43,ZUL,UA789,Cañasgordas,Shushicë,350,Delayed,16,Oyoba,Standard
+144,08/12/2022 07:23:06,AOA,UA789,Chor,Duanjia,370,Cancelled,5,Livetube,None
+145,08/03/2022 01:17:29,XZA,UA789,Santa Marta,Luozhuang,347,On Time,9,Blogspan,Premium
+146,04/06/2022 08:44:38,IKT,AA123,Sājir,Potet,213,Cancelled,20,Avavee,Standard
+147,02/06/2022 19:21:31,BLK,AA123,Kisii,Narukan,348,Cancelled,21,Riffpedia,None
+148,02/19/2022 00:17:25,XDJ,AA123,Daqiao,Sotouboua,265,Delayed,15,Fivebridge,None
+149,05/08/2022 23:41:49,SBR,DL456,Vrangel’,Tessalit,305,On Time,6,Gevee,None
+150,10/08/2022 14:26:38,MUJ,UA789,,Mayang,6,Delayed,13,Vitz,Standard
+151,12/10/2022 10:30:29,KOQ,UA789,Patabog,Hrvace,206,Cancelled,20,Zoomdog,Premium
+152,10/12/2022 23:43:36,NLS,AA123,San Isidro,Prokuplje,140,On Time,25,Fivebridge,None
+153,09/15/2022 07:13:57,SON,UA789,Pawłosiów,Rucava,346,On Time,10,Yotz,None
+154,05/27/2022 09:37:52,EFG,AA123,Cova da Iria,Suqin Huimin,231,On Time,26,Skyvu,Standard
+155,10/10/2022 18:36:34,MZO,DL456,Chat Trakan,Ladhewāla Warāich,285,Delayed,23,Edgetag,Standard
+156,12/19/2022 17:56:53,MIN,DL456,Mandaue City,Xingdian,51,On Time,15,Bluezoom,Premium
+157,12/13/2022 20:04:41,LTB,AA123,Paizhou,Neklyudovo,396,On Time,7,Roodel,Premium
+158,02/15/2022 06:38:09,CUV,DL456,Tabalong,Porto-Novo,173,On Time,19,Blogspan,Standard
+159,05/29/2022 20:02:13,EGO,AA123,Kýria,Mrozy,246,On Time,27,Realcube,None
+160,03/26/2022 19:43:01,0,AA123,Drahovo,Ulluaya,264,Delayed,28,Devpulse,None
+161,10/04/2022 08:15:03,NRL,DL456,Jiujiang,Yongchang,347,Cancelled,8,Jetpulse,Standard
+162,06/15/2022 11:07:34,ZTH,UA789,Banjar Cemenggon,Yingyang,89,On Time,23,Voolia,Premium
+163,02/26/2022 00:51:10,CHA,DL456,Liulin,Zhenjiang,202,On Time,16,Lazz,None
+164,12/13/2022 03:26:50,ATD,UA789,Hacı Zeynalabdin,Niños Heroes,363,Delayed,4,Photobug,Premium
+165,12/13/2022 15:56:38,APX,UA789,Nuyno,Kurmuk,46,Delayed,17,Yadel,None
+166,06/12/2022 07:41:26,WLH,AA123,Täby,Wadung,126,Delayed,16,Brainverse,Standard
+167,05/21/2022 20:04:27,VLK,AA123,,Dalubian,58,On Time,9,Photospace,Premium
+168,08/30/2022 10:54:13,YTY,AA123,Dowr-e Rabāţ,Tiguha,358,Cancelled,24,Twinder,Premium
+169,02/20/2022 16:16:16,VRY,UA789,Ondo,Santa Rita,313,Delayed,14,Camido,Standard
+170,10/29/2022 01:20:18,BEZ,AA123,Pingshui,Kiraman,264,Delayed,23,Feedfish,None
+171,09/27/2022 01:19:46,EIY,AA123,,Saint Hubert,302,Cancelled,13,Twitterworks,Standard
+172,05/28/2022 12:48:17,RDC,DL456,Yanqi,Kutorejo,192,Delayed,24,Camimbo,Premium
+173,06/04/2022 12:47:24,FOK,UA789,,Hammam Sousse,94,Delayed,11,Tazzy,None
+174,12/12/2022 03:25:11,WTT,AA123,Narathiwat,Kasserine,122,Delayed,19,Buzzster,Premium
+175,03/13/2022 01:13:02,BLU,AA123,Jinguoping,Järfälla,20,Delayed,8,Topicblab,None
+176,10/09/2022 00:15:02,HSJ,DL456,Lat Yao,Guanyang,190,Delayed,11,Pixope,Standard
+177,08/15/2022 05:00:27,CTQ,AA123,Thaon-les-Vosges,Figueira,22,Delayed,14,Shuffletag,Standard
+178,06/25/2022 15:52:16,SBD,UA789,Chengmagang,Delanggu,357,Cancelled,30,Skaboo,Standard
+179,05/20/2022 00:59:59,OMY,DL456,Huancabamba,Quinjalca,8,On Time,10,Divavu,Premium
+180,04/09/2022 11:06:24,YPO,AA123,Najd al Jumā‘ī,Lykóvrysi,147,Cancelled,20,Eamia,Standard
+181,02/06/2022 23:02:37,TNH,UA789,Moose Jaw,Pawak,250,Delayed,3,Yotz,Premium
+182,04/15/2022 03:01:33,SYO,AA123,Sunduk,Hrvatini,90,On Time,27,Gevee,Premium
+183,06/15/2022 11:47:58,MBB,DL456,Majur,Tokoname,326,On Time,15,Youspan,Standard
+184,03/30/2022 04:02:20,WML,DL456,Gibsons,Gaozhai,262,On Time,8,Jayo,None
+185,03/14/2022 04:00:14,AAJ,UA789,Houmt Souk,Foz do Arelho,78,On Time,10,Gabcube,Premium
+186,09/19/2022 18:30:28,SGR,DL456,Jianxin,Beddeng,301,Delayed,18,Nlounge,Premium
+187,01/17/2022 22:37:48,OMO,AA123,La Azulita,Sasa,178,Cancelled,23,Dablist,Premium
+188,10/08/2022 00:52:14,NRN,AA123,Pedro Miguel,Austin,299,Delayed,2,LiveZ,Standard
+189,07/20/2022 16:19:11,ISI,AA123,Ban Na San,Moriyama,64,Cancelled,30,Meembee,None
+190,12/18/2022 05:03:59,SRA,UA789,Klippan,Kaa-Khem,51,Cancelled,8,Quire,Standard
+191,09/16/2022 03:24:14,HRM,DL456,Simeykyne,Paris 08,261,On Time,20,LiveZ,None
+192,11/25/2022 06:30:45,GOP,AA123,Pesek,Serh,220,Delayed,24,Trupe,Standard
+193,12/07/2022 10:27:06,MAP,DL456,Xincheng,Hegarsari,220,Delayed,19,Eare,Premium
+194,02/15/2022 06:21:34,SLI,AA123,Bouças,Bwizibwera,232,Delayed,20,Jabberstorm,Premium
+195,04/03/2022 05:35:05,IDN,AA123,Boyany,Votkinsk,160,Cancelled,2,Trudeo,Premium
+196,05/01/2022 19:07:13,KKE,DL456,Nanshao,Simão Dias,78,Cancelled,14,Riffpath,Premium
+197,01/01/2022 09:08:14,FUM,UA789,Beaconsfield,Xieqiao,357,On Time,16,Blogpad,None
+198,07/12/2022 20:41:34,NTX,UA789,Mehendiganj,Albany,368,On Time,11,Gabvine,None
+199,04/28/2022 16:33:46,0,UA789,Ipauçu,Liangting,147,On Time,9,Yombu,Standard
+200,04/27/2022 12:22:25,WAZ,AA123,Mahīn,Ilovka,201,On Time,13,Realmix,Standard
+201,03/02/2022 09:15:26,RYG,DL456,Gondomar,Ancona,45,On Time,16,Skinder,Premium
+202,12/25/2022 07:26:10,GBH,AA123,Zhaocun,Cartagena,150,Delayed,16,Jabbersphere,Premium
+203,10/19/2022 15:33:14,MVK,AA123,Jaroměřice nad Rokytnou,Op,166,On Time,9,Eabox,None
+204,08/06/2022 22:16:03,LER,UA789,Tucheng,Napanee Downtown,262,On Time,11,Skalith,Premium
+205,11/05/2022 16:26:57,SAF,UA789,Skuodas,Tulsa,82,On Time,6,Brainlounge,Premium
+206,10/29/2022 01:10:27,PCN,UA789,Yueshan,El Dividive,6,On Time,23,Voomm,None
+207,10/29/2022 10:51:58,BHS,AA123,Shuguang,Uva,290,Cancelled,25,Kwideo,Standard
+208,10/22/2022 01:30:37,UGN,UA789,,Huogezhuang,128,Delayed,18,Pixope,Premium
+209,02/28/2022 07:52:18,ATG,DL456,Jarabacoa,Sinamaica,54,On Time,3,Skilith,None
+210,01/02/2022 01:23:23,MAD,AA123,Kortkeros,Changning,58,Delayed,19,Zazio,Premium
+211,05/01/2022 16:14:43,MJO,DL456,Zhangxi,Peruc,341,Cancelled,21,Mynte,None
+212,12/12/2022 16:08:40,IHO,DL456,Chengshan,Ochla,282,On Time,30,Yozio,Premium
+213,09/24/2022 16:08:07,GYE,UA789,Iniö,Matamey,27,Cancelled,3,Yakitri,None
+214,11/22/2022 18:01:19,WBB,DL456,Chico,El Cacao,258,Cancelled,18,Browseblab,Premium
+215,10/11/2022 02:34:49,BWY,AA123,Tsurib,Jablonec nad Jizerou,242,Delayed,3,Flashspan,None
+216,09/05/2022 10:09:19,OTJ,DL456,,Daveluyville,301,Cancelled,5,Zoombeat,Premium
+217,11/22/2022 17:36:29,EMA,AA123,,Qiaoshi,257,On Time,28,Skinix,None
+218,10/25/2022 23:09:46,WRN,DL456,Mandráki,Beiyang,188,Delayed,30,Twinte,None
+219,01/05/2022 10:22:51,UDA,AA123,Radzanów,Xinghuo,343,Delayed,27,Zoozzy,Standard
+220,07/06/2022 11:23:03,BSC,UA789,Huajialing,Quimper,201,Cancelled,13,Shufflester,Standard
+221,05/25/2022 23:24:44,NKC,UA789,Ribeirão Pires,Mölndal,85,Delayed,10,Devcast,Standard
+222,08/09/2022 14:45:03,WTT,UA789,Banepa,Houjiagang,80,On Time,6,Skipstorm,Premium
+223,01/04/2022 23:24:34,SON,UA789,Oued Zem,Pingpo,218,Cancelled,23,Skyvu,None
+224,05/31/2022 13:19:18,NQU,DL456,Idah,San Juan,288,On Time,5,Zoombeat,Standard
+225,06/10/2022 18:31:56,HDM,AA123,Lamego,Cipari Satu,367,Cancelled,23,Topdrive,None
+226,10/14/2022 15:33:44,VEV,UA789,Haicheng,Bokong Timur,173,Cancelled,22,Skiba,Standard
+227,06/18/2022 05:50:47,DNX,AA123,Senanga,Manola,381,On Time,20,Yombu,Premium
+228,02/06/2022 14:24:42,MGW,UA789,Texíguat,Chengjiang,235,On Time,4,Gevee,Standard
+229,02/22/2022 19:09:11,ROV,AA123,,Kaišiadorys,256,On Time,27,BlogXS,None
+230,03/09/2022 03:11:14,GTY,UA789,Bhamo,‘Izbat al Burj,179,Cancelled,21,Skinix,Standard
+231,05/17/2022 22:34:16,JSJ,UA789,Mūdīyah,Diriamba,148,On Time,29,Thoughtsphere,None
+232,07/03/2022 09:44:45,SYO,UA789,Gachalá,Parung,360,Delayed,6,Roodel,Premium
+233,04/01/2022 07:44:37,BZN,DL456,Lanhe,Xieyang,198,Cancelled,9,Babbleopia,None
+234,01/28/2022 01:10:09,XGR,UA789,Villa Atamisqui,Kayima,65,On Time,21,Chatterbridge,None
+235,03/13/2022 20:54:32,GJA,AA123,Kutamangu,Yelwa,99,Cancelled,3,Skaboo,Premium
+236,12/28/2022 21:04:40,THH,AA123,Malibago,Nangka,195,On Time,26,Linkbuzz,Standard
+237,05/09/2022 18:18:57,RDU,DL456,Bielsk Podlaski,Staraya Toropa,38,Delayed,1,Minyx,Standard
+238,05/11/2022 18:05:34,NCA,UA789,Bangkal,Jargalant,53,Delayed,8,Blogtag,Premium
+239,01/19/2022 12:26:49,RFP,AA123,Lāliān,Vacaria,198,On Time,17,Wordware,Standard
+240,02/17/2022 01:02:14,LCJ,AA123,Thatta,Songjiang,87,On Time,6,Vitz,Premium
+241,11/05/2022 11:03:43,CUL,UA789,Hamburg,Boronów,71,Cancelled,4,Zoonoodle,None
+242,03/21/2022 16:07:44,JVI,UA789,Changfu,Pirot,117,Delayed,18,Eire,Premium
+243,06/18/2022 18:15:31,XLS,UA789,Karak City,Haikoudajie,53,Delayed,10,Twitterwire,None
+244,09/21/2022 23:09:48,GUA,AA123,Somdet,Cikijing,56,Delayed,29,Dynabox,Standard
+245,11/09/2022 12:34:59,SUJ,DL456,Daze,Osby,114,On Time,5,Meevee,None
+246,05/05/2022 15:10:57,SLP,UA789,Ouaoula,Hengli,384,Cancelled,21,Bubblebox,None
+247,08/18/2022 01:05:05,NTC,AA123,Perth,Li’an,94,Delayed,4,Centizu,Premium
+248,08/17/2022 21:45:02,LIP,DL456,,Jacinto Arauz,68,Cancelled,18,Fadeo,Standard
+249,07/11/2022 05:59:58,DOA,AA123,Varberg,Mlawat,188,Cancelled,20,Shufflebeat,Standard
+250,01/18/2022 09:27:21,OAI,UA789,Iúna,Qingxi,252,Cancelled,11,Roombo,Standard
+251,01/27/2022 09:57:16,WTZ,UA789,Hongtu,Chamalières,10,On Time,15,Devpoint,Premium
+252,03/11/2022 08:07:44,DAP,UA789,Shuangmiaojie,Itapira,223,On Time,26,LiveZ,None
+253,03/06/2022 06:39:21,CDD,DL456,Cililitan,Pendiqing,331,On Time,24,Wikizz,None
+254,05/24/2022 23:18:05,AOO,UA789,Maticmatic,Lilio,221,On Time,2,Zazio,None
+255,06/18/2022 23:13:02,YMJ,DL456,Jelat,Ḩabūr,210,Cancelled,5,Shuffletag,Standard
+256,09/22/2022 14:08:32,EQS,DL456,Maganha,Novyy Urengoy,393,Cancelled,9,Voonder,Premium
+257,01/21/2022 14:31:21,GGL,DL456,Béoumi,Guaiúba,107,Cancelled,3,Meevee,Standard
+258,01/03/2022 12:39:39,LKW,UA789,Qingshan,Tuochuan,359,Delayed,14,Yacero,Premium
+259,05/07/2022 18:18:19,YEV,UA789,Mayang,Sobreda,367,Cancelled,21,Tazz,None
+260,07/24/2022 02:05:26,RGT,UA789,Saint-Denis,Sölvesborg,82,Delayed,29,Feedmix,Standard
+261,02/26/2022 15:02:54,NCG,AA123,Zaragoza,Huacao,227,On Time,29,Mymm,None
+262,06/25/2022 22:57:45,MPY,DL456,,Nantes,393,Cancelled,8,Zava,Premium
+263,11/14/2022 10:26:03,MEX,DL456,Setro,La Charité-sur-Loire,364,On Time,1,Oyope,None
+264,05/05/2022 04:10:08,MED,DL456,Edgeworthstown,Moravská Třebová,387,Delayed,8,Aibox,None
+265,03/02/2022 14:43:49,BEI,UA789,Shuibian,Mache,97,On Time,13,Divape,Standard
+266,10/02/2022 08:20:10,TJI,UA789,Padangbai,Ḩāfiz̧ Moghul,246,Cancelled,24,Flipbug,Premium
+267,07/19/2022 16:39:26,DDU,UA789,Varkaus,Lanpelan,319,Cancelled,29,Babbleset,Standard
+268,04/29/2022 21:42:01,ZYL,UA789,Pojok,Archis,329,Delayed,8,Yacero,Standard
+269,08/26/2022 05:21:41,ALZ,AA123,Brka,Tisul’,155,Cancelled,21,Quaxo,None
+270,11/09/2022 09:42:06,BIA,AA123,Verkhoshizhem’ye,Podebłocie,344,Cancelled,6,Linkbridge,Standard
+271,08/03/2022 03:40:43,EFK,AA123,Iguape,Ħamrun,308,Delayed,30,Linkbuzz,Standard
+272,04/22/2022 21:34:00,CVC,AA123,,Wukeshu,338,On Time,26,Eare,Premium
+273,09/01/2022 15:51:51,SEY,UA789,Stalís,Ronneby,220,Delayed,11,Janyx,Standard
+274,06/07/2022 07:50:04,BNI,DL456,Cutral-Có,Bergerac,105,Delayed,11,Yakitri,Premium
+275,05/22/2022 19:43:12,HUY,UA789,Kudinovo,Ciudad Ojeda,117,On Time,20,Dynabox,Standard
+276,03/06/2022 19:26:37,FDF,DL456,Ush-Tyube,Krasnyy Klyuch,40,On Time,7,Edgeblab,Premium
+277,05/28/2022 12:51:36,GXY,DL456,Pervoural’sk,Santa Bernardina,392,Delayed,25,Pixoboo,Standard
+278,06/06/2022 03:46:31,CEJ,UA789,,Igir-igir,54,On Time,17,Wordify,None
+279,05/03/2022 21:07:05,DVD,DL456,Nha Trang,Tushi,179,Delayed,19,Twitterbridge,None
+280,03/30/2022 14:15:33,GHN,DL456,Thap Khlo,Jianli,274,On Time,22,Twiyo,Premium
+281,12/12/2022 14:11:18,IMQ,UA789,,Oslo,68,Delayed,10,Babblestorm,Standard
+282,05/30/2022 14:22:00,AEG,DL456,Yazman,Ouango,338,Delayed,6,Realbridge,Standard
+283,10/21/2022 19:38:06,JCB,AA123,Mhango,Gandi,38,Delayed,3,Zoonoodle,Premium
+284,06/25/2022 13:36:29,GGT,UA789,Forquilhinha,Lorraine,7,Cancelled,7,Dynabox,None
+285,10/25/2022 08:18:20,TXN,AA123,Liuduzhai,Ilām,370,Cancelled,20,Skaboo,None
+286,03/26/2022 14:14:13,RVC,UA789,,Tolstoy-Yurt,126,Delayed,26,Roomm,Standard
+287,05/16/2022 08:04:19,CGA,DL456,Konibodom,Sidamukti,38,Cancelled,1,Skidoo,Premium
+288,10/13/2022 17:34:54,ANB,UA789,Nanchoc,Hrazdan,352,Delayed,6,Skimia,None
+289,06/16/2022 06:16:08,TWF,AA123,Jiangning,Pępowo,109,On Time,6,Dynava,Premium
+290,06/04/2022 21:20:04,LKG,UA789,Nong Khai,Qiling,119,Delayed,8,Devify,Standard
+291,01/17/2022 23:53:23,HPY,DL456,Clogherhead,Kaa-Khem,220,Delayed,23,Ozu,Premium
+292,10/10/2022 20:32:01,BQJ,AA123,Cañuelas,Chengcun,32,On Time,2,Oloo,Premium
+293,02/08/2022 03:50:27,APR,AA123,Svorónos,Lindong,369,Delayed,14,Roodel,None
+294,10/23/2022 19:58:36,HLA,AA123,Borbon,Kansas City,15,On Time,2,Eabox,Standard
+295,10/13/2022 12:45:01,RIS,UA789,Kidatu,Luisiana,277,Cancelled,15,Jayo,None
+296,10/05/2022 05:21:16,CVQ,DL456,Tours,Xijiao,133,On Time,29,Flipstorm,Standard
+297,10/28/2022 01:03:35,BYQ,DL456,Guyancourt,Gaohu,255,Delayed,2,Demizz,None
+298,02/16/2022 07:03:19,GGW,AA123,Podol’sk,Samir,287,Cancelled,28,Browsecat,None
+299,09/05/2022 14:58:49,ULB,DL456,Sirnaresmi,Parada de Todeia,101,Delayed,6,Browsecat,None
+300,10/26/2022 07:07:40,YLB,UA789,Itabuna,Lai Cách,136,Delayed,27,Quaxo,Standard
+301,08/15/2022 19:44:01,ESS,UA789,North Little Rock,Guilhabreu,275,Cancelled,28,Voolia,Standard
+302,09/18/2022 01:14:22,PWY,DL456,Myrzakent,Krasnogorskoye,31,On Time,10,Flashset,None
+303,12/15/2022 02:18:42,BNB,UA789,Barra Velha,Thạnh Phú,374,Cancelled,9,Kayveo,Standard
+304,11/24/2022 01:06:42,POR,DL456,Mâcon,Makurdi,174,On Time,20,Oodoo,None
+305,04/26/2022 18:00:58,NQU,UA789,Mijiang,Cigaleuh Kulon,218,Delayed,10,Jabberbean,Premium
+306,09/10/2022 05:36:05,ABK,AA123,Chengzhai,Quiriquire,234,Delayed,24,Dynabox,None
+307,10/05/2022 02:56:43,TSF,DL456,Leiden,Firavitoba,217,On Time,22,Camimbo,None
+308,12/05/2022 13:55:18,PQQ,DL456,Lorient,Zharkovskiy,261,Delayed,9,Thoughtstorm,None
+309,03/04/2022 12:58:12,SKO,AA123,La Unión,Alvalade,210,Cancelled,14,Feedbug,None
+310,05/04/2022 02:29:50,CGP,UA789,Maracaibo,Aranguren,142,On Time,16,Zoozzy,Premium
+311,04/02/2022 17:15:38,TKP,AA123,Umeå,Rodnikovskaya,346,Delayed,4,Divanoodle,Standard
+312,08/14/2022 04:30:54,AAZ,DL456,Monasterevin,Matlang,243,On Time,14,Wordtune,Standard
+313,02/24/2022 05:49:31,LRE,DL456,Huacheng,Darovskoy,262,On Time,11,Realbuzz,Premium
+314,09/12/2022 12:47:45,YON,AA123,Kafir Qala,Najrān,152,Cancelled,18,Feedmix,None
+315,05/06/2022 00:33:25,MJG,UA789,Xinsheng,Sila Lat,47,Cancelled,3,Wikizz,Standard
+316,01/27/2022 19:39:36,TUR,DL456,Minanga Norte,Gaoliban,147,Delayed,30,Twitterbeat,None
+317,09/15/2022 03:17:12,JNZ,UA789,Mixco,Zagazig,326,On Time,28,Flashdog,Premium
+318,01/29/2022 16:11:15,ARK,UA789,Hongyansi,Baon,19,Delayed,12,Tagchat,Premium
+319,11/24/2022 13:04:47,TBY,AA123,Yanjiang,Jantake,280,On Time,11,Skyba,Standard
+320,12/07/2022 08:33:06,BVA,AA123,Hualongyan,Barretos,200,Delayed,22,Twitternation,None
+321,04/28/2022 15:50:39,KPR,AA123,Mbandaka,Fréjus,328,On Time,10,Tazz,Standard
+322,09/27/2022 06:00:17,NBE,UA789,Tulusmulyo,Concepción,193,On Time,4,Wordpedia,Premium
+323,09/09/2022 23:12:43,WGN,UA789,Kalix,Idenao,202,Cancelled,7,Ainyx,Premium
+324,06/19/2022 09:52:28,FDF,UA789,Arţās,Sośnicowice,382,Delayed,8,Youspan,Standard
+325,04/14/2022 20:19:59,TIE,AA123,,Watulabara,131,On Time,22,Eabox,None
+326,05/03/2022 10:56:29,QFX,AA123,,Jielin,390,On Time,23,Yodoo,None
+327,06/01/2022 13:56:26,OIA,UA789,Sanying,Tawun,212,On Time,17,Yoveo,Premium
+328,02/07/2022 07:23:05,TTL,UA789,Nuevo Arraiján,Muzidian,50,Delayed,5,Quinu,Standard
+329,09/21/2022 00:28:09,BEJ,DL456,Tubo,Longgang,277,Delayed,8,Zoozzy,Standard
+330,03/19/2022 17:41:05,KAN,DL456,Sokol’niki,Mtsensk,75,Delayed,13,Photobug,None
+331,02/18/2022 23:01:40,RKW,UA789,João Alfredo,Harbour Breton,68,Cancelled,25,Mynte,None
+332,08/21/2022 05:36:56,DXE,AA123,Padangbatung,Täby,66,Delayed,12,Flashdog,Standard
+333,03/06/2022 10:57:29,REO,DL456,El Progreso,Hengshanqiao,301,On Time,18,Geba,Standard
+334,02/05/2022 09:35:17,RGT,UA789,,Gargaliánoi,11,Delayed,2,Kwinu,Standard
+335,05/05/2022 08:37:02,ABL,DL456,Zhangjiayuan,Karangintan,165,On Time,26,Gabtune,None
+336,04/13/2022 14:32:19,UPL,UA789,Kajuru,Hikari,178,Cancelled,20,Centizu,None
+337,06/17/2022 13:27:29,VTU,AA123,Velykyy Klyuchiv,Tongxing,349,Cancelled,12,Eazzy,Standard
+338,07/06/2022 13:10:49,MAF,UA789,Xaysetha,Nazir Town,13,Cancelled,19,Aimbo,None
+339,03/09/2022 06:51:53,GRY,AA123,Hollola,Aubervilliers,85,Cancelled,4,Eire,Standard
+340,04/12/2022 17:34:15,YWN,AA123,Kemang,Kungshamn,6,Delayed,26,Lazz,None
+341,01/02/2022 07:51:48,FAY,UA789,Wangcao,Santiago de los Caballeros,2,On Time,14,Kwideo,Standard
+342,11/09/2022 02:08:02,TOE,AA123,Dollard-Des Ormeaux,Vinkkilä,384,Cancelled,14,Skiba,Premium
+343,05/21/2022 22:42:55,PGA,DL456,Krasnaya Polyana,Plesná,34,Cancelled,26,Centizu,Standard
+344,03/12/2022 19:49:50,YAR,DL456,Ashikaga,Buenavista,369,Delayed,16,Youspan,None
+345,07/05/2022 08:45:14,CNO,DL456,Dazhou,Platagata,141,On Time,17,Vimbo,None
+346,04/10/2022 22:17:08,IGU,AA123,Karabanovo,Korenëvo,392,Cancelled,27,Kaymbo,Standard
+347,08/11/2022 19:48:07,TEM,AA123,Potiskum,Paripiranga,147,Cancelled,18,Vitz,Standard
+348,02/23/2022 02:04:16,RDS,UA789,Sumberpandan,Calceta,293,Delayed,16,Edgewire,None
+349,04/10/2022 15:35:43,AYU,DL456,Tarui,Caçapava do Sul,170,Delayed,5,Meedoo,None
+350,09/28/2022 16:44:29,YNS,UA789,Kombolcha,Netrakona,375,On Time,19,Npath,Premium
+351,12/28/2022 06:46:19,BCR,DL456,Pembroke,Cibinong,43,Cancelled,7,Realbuzz,None
+352,09/18/2022 18:13:18,PGN,DL456,Balas,Cheongju-si,234,Cancelled,6,Avaveo,Standard
+353,09/10/2022 03:02:42,AHT,DL456,Taiping,Metu,214,Delayed,17,Avavee,Standard
+354,08/31/2022 10:47:55,AAB,UA789,Tanjung,Buga,132,Delayed,20,Linkbridge,Standard
+355,10/12/2022 09:17:59,YEY,AA123,Al Khafjī,Jevíčko,142,On Time,11,Lazz,Premium
+356,06/12/2022 00:11:59,LCE,AA123,Yucheng,Bobonan,65,Delayed,18,Teklist,None
+357,01/17/2022 22:37:39,TKH,AA123,,Chegdomyn,323,On Time,11,Photobug,None
+358,09/14/2022 01:42:28,LDG,UA789,,Youghal,88,Cancelled,21,Roodel,Premium
+359,06/27/2022 11:12:14,ROP,AA123,María la Baja,Balading,306,Delayed,29,Ozu,None
+360,08/26/2022 12:47:17,PCU,DL456,Pasar,Dolní Cerekev,96,Cancelled,13,Skyble,None
+361,01/21/2022 03:34:36,JWA,AA123,Shiye,Dashu,94,On Time,18,Rhyzio,Standard
+362,11/02/2022 14:14:18,CCH,DL456,Yanguan,Thị Trấn Ngọc Lặc,72,Delayed,13,Skinix,Premium
+363,04/20/2022 10:44:46,OSG,UA789,,Longueuil,197,Cancelled,21,Jayo,Premium
+364,07/27/2022 14:45:53,RIY,DL456,Braga,Bangeran,139,Cancelled,27,Eamia,Standard
+365,03/04/2022 23:31:54,RNZ,UA789,Kárystos,Biankouma,23,Cancelled,22,Flipopia,Standard
+366,08/25/2022 03:15:14,WUH,UA789,Kayan,Lazaro Cardenas,9,Cancelled,30,Meevee,Standard
+367,03/01/2022 07:56:10,ROA,DL456,Coromandel,Igreja,317,Delayed,11,Avamm,Premium
+368,12/04/2022 19:48:41,BWM,DL456,Goúvai,Erenhot,103,On Time,23,Gabtype,None
+369,04/29/2022 00:13:06,VRK,DL456,,San Pedro One,149,On Time,12,Ntag,None
+370,08/11/2022 06:11:44,GTS,UA789,Yuanba,Kamieniec Ząbkowicki,157,Delayed,26,Pixope,None
+371,04/09/2022 04:32:34,ZIN,DL456,Musawa,Pagatan,98,Delayed,15,Trudoo,Standard
+372,11/18/2022 17:20:50,GRQ,AA123,Uva,La Fortuna,67,Cancelled,4,Blogpad,Standard
+373,09/28/2022 18:51:12,DFI,AA123,La Hacienda,Tafí Viejo,64,On Time,21,Jaxbean,None
+374,11/07/2022 05:37:47,SII,UA789,Batulenger Barat,Emiliano Zapata,217,Cancelled,11,Viva,None
+375,03/08/2022 13:56:44,SAM,UA789,,Quartier Militaire,337,Cancelled,14,Meevee,None
+376,10/24/2022 00:31:22,BDS,AA123,Tempursari Wetan,Bandhagen,204,On Time,27,Eabox,Premium
+377,08/19/2022 21:00:26,UCT,AA123,Benjamin Constant,Guandian,115,Delayed,19,Yombu,Premium
+378,10/25/2022 19:50:21,LGD,UA789,Lanjaghbyur,Vân Canh,42,Cancelled,2,Feedfire,None
+379,11/25/2022 00:42:09,RYN,UA789,Carice,Chiara,295,Delayed,10,Jatri,None
+380,01/29/2022 20:52:09,TTQ,AA123,Shajing,Phichit,250,On Time,25,Kwideo,Premium
+381,03/18/2022 03:18:15,0,UA789,Tando Jām,Dushk,286,Cancelled,14,Dynava,None
+382,07/30/2022 13:31:42,XNG,AA123,,Shāhdādkot,348,Delayed,11,Centimia,None
+383,04/24/2022 15:45:45,OKB,DL456,Farasān,Konstantynów,20,Delayed,25,Blogtags,Standard
+384,12/22/2022 01:33:29,LLY,AA123,Maracaju,Kungsör,327,On Time,29,Youopia,None
+385,06/18/2022 18:40:09,GMS,UA789,Nova Odesa,Odolanów,67,On Time,13,Kare,Standard
+386,06/27/2022 14:16:58,DTM,UA789,Meia Via,Del Pilar,44,Cancelled,9,Thoughtstorm,Standard
+387,02/04/2022 02:37:17,TBW,UA789,Liangshan,Longquan,290,Cancelled,29,Voonix,Premium
+388,10/11/2022 19:46:52,YDB,UA789,Gunziying,Krajan,221,Cancelled,17,Kazu,Standard
+389,08/08/2022 13:36:42,MLN,UA789,Ksawerów,Pag-asa,316,Cancelled,9,Centimia,Standard
+390,03/24/2022 05:08:34,BBA,DL456,Nahrīn,Koungheul,134,On Time,19,Ailane,Standard
+391,10/11/2022 07:17:03,OKR,AA123,Palguyod,Kowalewo Pomorskie,177,Delayed,5,Yadel,Standard
+392,10/29/2022 21:10:10,BIU,DL456,Zhuli,Kamionka,206,On Time,7,Devify,None
+393,06/07/2022 03:12:04,YSK,AA123,Dinggou,Roi Et,312,Cancelled,16,Plambee,Premium
+394,11/27/2022 02:37:12,GUY,AA123,Asikkala,San Pascual,368,Delayed,8,Jabbertype,Premium
+395,12/08/2022 17:05:24,RBB,AA123,Sampués,Nankou,308,Delayed,24,Cogidoo,Standard
+396,09/11/2022 22:30:06,WLW,UA789,Tochio-honchō,Kawangu Satu,331,On Time,28,Buzzster,Standard
+397,06/16/2022 21:17:02,EAB,DL456,Busia,Zhangjiachang,169,On Time,30,Trunyx,Standard
+398,12/17/2022 07:47:04,CBH,UA789,Ban Khok,Bariri,377,Cancelled,28,Devshare,Premium
+399,12/02/2022 14:38:58,FMA,UA789,Diaopu,Ribeira,332,On Time,21,Eazzy,None
+400,03/19/2022 04:50:56,EXI,UA789,Chengfeng,Sainte-Adèle,248,Delayed,21,Bluezoom,Standard
+401,04/03/2022 02:52:03,ZAJ,UA789,Glogovac,Banjar Brahmanabukit,86,Delayed,10,Tanoodle,Premium
+402,11/09/2022 01:08:48,SFB,AA123,Papelón,Ciparakan,91,On Time,17,Twiyo,None
+403,07/18/2022 02:17:47,KCI,DL456,Qagan Obo,Ruma,188,On Time,18,Tekfly,None
+404,04/16/2022 02:41:35,YPI,AA123,Kryvichy,Guolemude,122,On Time,27,Topdrive,Premium
+405,01/02/2022 19:24:32,YTT,AA123,,Xumai,379,Delayed,5,Tagcat,Standard
+406,08/23/2022 21:34:25,SIA,DL456,Shakīso,Ni’ao,135,Cancelled,8,Feedmix,Premium
+407,06/09/2022 06:36:40,SFE,DL456,Huangbu,Shchëkino,175,On Time,2,Meejo,Standard
+408,03/15/2022 12:01:02,YDG,AA123,Qingjiang,Tegalalang,63,Cancelled,27,Rhybox,Standard
+409,06/07/2022 12:20:29,VPS,UA789,Yaozhuang,Kungälv,318,On Time,16,Quatz,Premium
+410,03/22/2022 12:45:16,UGA,DL456,Tha Uthen,Raleigh,290,Cancelled,2,Linktype,Standard
+411,06/03/2022 19:13:01,NIF,DL456,Jacksonville,Klisura,60,Delayed,2,Zooveo,Premium
+412,09/22/2022 17:57:06,EDA,DL456,Linköping,La Maná,76,Delayed,28,Podcat,Standard
+413,04/18/2022 21:51:52,SYW,DL456,Darong,Pontevedra,84,On Time,4,Kazio,None
+414,07/17/2022 16:38:58,CNY,AA123,Ust’-Labinsk,Khulna,328,Delayed,14,Mybuzz,Premium
+415,05/06/2022 13:59:49,AEL,DL456,San José de Jáchal,Tianzhuang,190,Cancelled,5,Yodoo,Premium
+416,06/14/2022 04:07:18,WLC,DL456,Puerto Berrío,Albuquerque,345,Cancelled,29,Einti,Standard
+417,10/24/2022 17:51:13,NVA,AA123,,Vovchans’k,374,Cancelled,11,Kwilith,None
+418,08/28/2022 11:12:06,SJL,DL456,San Rafael Petzal,Dongshe,352,Delayed,20,Realblab,Premium
+419,09/04/2022 19:04:50,GLG,DL456,Buniaga,Yashiga,361,Cancelled,27,Meevee,Standard
+420,01/11/2022 13:55:07,VRS,DL456,,Roun Satu,225,On Time,1,Eimbee,Standard
+421,07/10/2022 06:45:03,PSD,UA789,Kakamas,Xinli,307,Delayed,8,Flashset,Premium
+422,04/10/2022 13:25:02,PHB,DL456,,Juwana,73,On Time,5,Oyoloo,Standard
+423,09/16/2022 16:27:08,TYB,AA123,eMbalenhle,Dahu Satu,270,Delayed,24,Agivu,Premium
+424,06/20/2022 20:45:36,CNH,DL456,Baliang,Okayama-shi,269,On Time,30,Photofeed,Standard
+425,02/26/2022 12:25:59,ORD,UA789,Chợ Mới,Fuyang,389,Cancelled,1,Fliptune,Standard
+426,10/24/2022 03:11:03,UMT,AA123,Waegwan,Fushui,104,Cancelled,6,Innojam,Premium
+427,03/22/2022 23:10:30,PNT,UA789,Longquan,Liulin,382,Delayed,24,Lazz,Premium
+428,09/03/2022 12:32:27,0,DL456,Jiaoxie,Xuguang,140,Delayed,12,DabZ,None
+429,09/13/2022 20:51:44,KAC,UA789,Espanola,Hwacheon,156,Delayed,1,Fivespan,None
+430,12/22/2022 08:14:15,AXS,DL456,Barabedang,Thị Trấn Văn Quan,359,Cancelled,22,Photofeed,Standard
+431,05/21/2022 17:44:28,YYS,AA123,Cheremshan,Abnūb,273,Cancelled,5,Yacero,Premium
+432,01/30/2022 04:27:18,MNA,UA789,Angra do Heroísmo,Nepomuceno,46,On Time,8,Topdrive,None
+433,09/11/2022 00:37:21,NEL,DL456,Maicao,Tumba,242,Delayed,25,Ooba,None
+434,05/21/2022 21:51:28,SCX,AA123,Trelleborg,Keruguya,172,Cancelled,21,Fanoodle,Premium
+435,08/08/2022 16:40:01,ODY,UA789,Sukasari,Gorē,42,Delayed,2,Tagfeed,Standard
+436,01/04/2022 07:46:07,WNN,DL456,Pozo Hondo,Peso da Régua,152,On Time,7,Fanoodle,None
+437,02/05/2022 05:03:58,IUE,DL456,,Koblain,293,Delayed,12,Kwimbee,None
+438,03/19/2022 21:45:12,BGT,DL456,Pyapon,Mingjing,154,Delayed,11,Shufflebeat,None
+439,01/14/2022 01:26:26,MCI,UA789,Cergy-Pontoise,Kórnik,394,Cancelled,9,Oba,Premium
+440,08/24/2022 01:38:48,YBP,UA789,Hor,Kortowo,385,On Time,30,Divavu,Premium
+441,01/16/2022 14:45:24,KTC,DL456,Mesopotamía,Caiyuan,17,Delayed,28,Linkbridge,Premium
+442,11/20/2022 05:16:12,TUF,UA789,Pitangui,Carolina,29,On Time,2,Yodo,Premium
+443,08/21/2022 11:44:28,BRN,UA789,Dongyuan,Rouen,314,On Time,13,Ntag,Premium
+444,02/19/2022 10:39:56,TTD,UA789,Lishu,Honglong,168,On Time,28,Feedfire,Standard
+445,09/25/2022 15:07:16,PCO,DL456,San Marcos,Georgiyevsk,249,Cancelled,7,Demizz,Premium
+446,05/14/2022 03:58:30,OCN,DL456,,Lyozna,307,On Time,3,Gabtype,Premium
+447,05/06/2022 05:42:04,MHY,DL456,,Sanzhang,5,Cancelled,12,DabZ,Standard
+448,01/04/2022 18:25:27,SSC,AA123,Ciketak,Cuihuangkou,201,Delayed,10,Innotype,Premium
+449,12/21/2022 23:32:11,LOM,AA123,Popovi,Tosno,200,On Time,8,Viva,Standard
+450,10/19/2022 12:22:30,LPN,DL456,,Araxá,263,Delayed,8,Jaloo,Standard
+451,10/29/2022 03:11:13,YZD,DL456,Péplos,Hoima,94,On Time,26,LiveZ,None
+452,03/05/2022 06:28:09,KES,DL456,Bongao,Koło,58,On Time,18,Jazzy,None
+453,05/13/2022 13:10:20,AYY,UA789,Fanrong,Zhangjia,296,Delayed,24,Realcube,Standard
+454,11/06/2022 09:32:57,OPS,DL456,,Lingshan,353,Delayed,18,Twinder,None
+455,01/12/2022 14:22:18,BGY,DL456,,Balongmulyo,246,On Time,15,Voolia,Premium
+456,02/04/2022 13:40:25,CIA,DL456,Lugang,Siewierz,26,On Time,13,Thoughtstorm,None
+457,01/17/2022 15:00:03,YNM,UA789,Francistown,Pinhal Novo,214,Cancelled,21,Vidoo,Standard
+458,06/05/2022 05:05:47,STA,UA789,Gangdong,Nuamuzi,62,On Time,10,Skinix,Premium
+459,12/24/2022 11:49:12,MHQ,DL456,Wenquan,Chocope,123,On Time,13,Buzzshare,Premium
+460,10/23/2022 15:54:30,ATI,UA789,Cam Lộ,Huashan,166,On Time,6,Thoughtbridge,Standard
+461,01/20/2022 10:34:13,GNF,UA789,Sirindhorn,Duanjia,111,On Time,26,Skinder,Premium
+462,06/12/2022 23:44:21,TSX,AA123,Santa Catalina,Boa Viagem,180,On Time,29,Voonix,Premium
+463,05/07/2022 01:18:16,0,UA789,Eslöv,Milanów,60,Cancelled,22,Janyx,Premium
+464,06/10/2022 18:54:32,TWA,DL456,,La Romana,44,Cancelled,22,Izio,None
+465,08/20/2022 03:05:41,GAI,AA123,Cergy-Pontoise,La Sabana,127,Delayed,25,Bubblebox,None
+466,10/25/2022 21:07:35,TIZ,AA123,,Zaječar,54,Cancelled,15,Twitternation,Standard
+467,01/27/2022 02:17:11,JUR,AA123,Sevlievo,Pumai,252,On Time,12,Ailane,Premium
+468,02/20/2022 18:18:22,RTN,AA123,,Dampit Satu,73,Cancelled,9,Wordware,None
+469,09/06/2022 02:27:17,TCU,AA123,San Antonio,Genova,233,Cancelled,28,Linklinks,None
+470,12/14/2022 10:51:55,FEN,UA789,Yongheshi,Jalaud,237,Delayed,24,Aibox,Premium
+471,05/10/2022 22:34:13,CPE,UA789,San Juan,Badar,57,On Time,17,Bluejam,None
+472,06/11/2022 09:22:23,CUT,DL456,Carrizal,Banjar Tiga,391,Cancelled,1,Mudo,Standard
+473,11/24/2022 09:48:56,RKO,DL456,Bello,Yong’an,372,Delayed,24,Zoomlounge,Premium
+474,08/31/2022 15:49:52,NLD,DL456,Merke,Nîmes,20,Cancelled,7,Blogspan,Premium
+475,10/26/2022 07:22:45,0,DL456,Lawrenceville,Primorka,85,On Time,28,Photojam,Premium
+476,05/20/2022 17:16:45,LOS,DL456,,Moreira de Geraz do Lima,299,Cancelled,6,Wikizz,None
+477,11/17/2022 15:39:46,ERV,UA789,Donja Mahala,Sathing Phra,109,Delayed,18,Jaxworks,Premium
+478,03/09/2022 04:26:48,GDV,UA789,Busdi,Shijing,75,Cancelled,2,Dynazzy,None
+479,04/19/2022 12:37:12,BXO,DL456,Kentongan,Dosso,51,On Time,22,Divape,Standard
+480,10/07/2022 08:32:47,JIL,UA789,Riangbaring,Walnut Grove,240,Delayed,5,Blogtag,None
+481,07/11/2022 18:04:27,TLL,DL456,Zhangjia,Ágios Andréas,90,On Time,13,Browsedrive,Premium
+482,09/23/2022 04:00:59,EUQ,UA789,Pārūn,Tours,320,On Time,15,Skipfire,None
+483,01/09/2022 12:17:18,MPM,DL456,Runka,Correia Pinto,307,Cancelled,1,Rhynoodle,Standard
+484,08/28/2022 16:50:09,REC,DL456,Dubrava,Bayt Ta‘mar,141,Cancelled,19,Twitterlist,Premium
+485,11/20/2022 09:06:34,JEQ,UA789,Liulin,Tepusteca,34,On Time,18,Topdrive,Standard
+486,10/21/2022 23:59:04,MKY,UA789,Gevgelija,Wushan,102,Delayed,16,Shufflebeat,Standard
+487,07/14/2022 00:37:32,HGE,DL456,Tadmur,Ayabe,129,Delayed,27,Jetpulse,Premium
+488,04/27/2022 15:55:30,YLM,DL456,Dobje pri Planini,Sophia Antipolis,303,On Time,29,Aibox,Premium
+489,02/03/2022 17:58:45,HFT,AA123,Meiktila,Kilimatinde,22,On Time,12,Tekfly,None
+490,09/25/2022 16:59:28,SLG,DL456,,Celje,149,On Time,23,Kimia,Premium
+491,01/06/2022 05:39:17,TBQ,DL456,Gò Quao,Ben Arous,1,On Time,28,Shufflebeat,None
+492,11/18/2022 10:37:34,GZO,DL456,Gazojak,Lesnyye Polyany,109,Delayed,16,Photobean,Premium
+493,07/13/2022 21:35:28,STH,DL456,,Yelenendorf,364,Delayed,12,Quatz,None
+494,06/22/2022 23:42:06,LCH,AA123,Juan Adrián,Novi Slankamen,73,On Time,24,Twimm,None
+495,06/13/2022 02:19:33,VCS,AA123,Ujar,Krajan Curahcotok,98,On Time,23,Rhycero,None
+496,08/11/2022 12:05:30,PPD,UA789,Paris 14,Wuxiang,328,Delayed,6,Shufflebeat,Premium
+497,03/05/2022 19:32:46,KRQ,DL456,Shinyanga,Cercal,85,On Time,21,Tagtune,Standard
+498,12/26/2022 02:48:52,WSG,UA789,Ariana,Huanghuai,379,Delayed,8,Tagopia,Premium
+499,09/05/2022 04:19:45,MZG,UA789,Tongyangdao,Tallinn,183,Cancelled,14,Lajo,Standard
+500,10/23/2022 15:46:55,PWK,AA123,Shuanglong,Ciudad Barrios,374,Cancelled,23,Divape,None
+501,10/18/2022 12:49:33,GEY,DL456,Kansas City,Adir,64,Cancelled,19,Leexo,None
+502,07/25/2022 02:37:12,JSY,DL456,Longquan,Štítná nad Vláří,249,On Time,29,Skipfire,None
+503,04/01/2022 02:42:45,LPA,DL456,Pul-e Sangī,Maranganí,354,Cancelled,29,Kanoodle,None
+504,12/21/2022 03:28:42,DPS,AA123,Wola Sernicka,Cisantri,81,On Time,12,Oodoo,Standard
+505,01/28/2022 18:46:35,GAS,DL456,Karpushikha,Pleiku,1,On Time,20,Skynoodle,Premium
+506,10/17/2022 01:25:32,YFJ,DL456,Liuji,Pilcuyo,212,Delayed,20,Gabcube,None
+507,08/23/2022 20:02:12,PMM,AA123,Puerto Guzmán,Krasnystaw,255,Cancelled,30,Pixonyx,Premium
+508,06/30/2022 19:51:30,LPK,AA123,Petrovskaya,Yajiang,142,Cancelled,30,DabZ,Standard
+509,09/01/2022 23:38:10,CIW,DL456,Bernal,Argalastí,39,On Time,20,Trudeo,Premium
+510,10/30/2022 11:01:18,WAH,DL456,Gvozd,Kovel’,53,Delayed,26,Chatterpoint,Standard
+511,03/08/2022 17:52:05,ADC,UA789,,Kuala Lumpur,227,Delayed,1,Zoomcast,Premium
+512,09/07/2022 18:59:13,PRG,UA789,Shengtang,Borāzjān,50,On Time,16,Avavee,None
+513,01/29/2022 05:43:13,UUK,DL456,,Riosucio,255,On Time,2,Meevee,Premium
+514,08/24/2022 20:29:43,MSW,UA789,Lunas,Qianjin,167,On Time,25,Gigashots,Premium
+515,12/01/2022 04:30:34,LUA,UA789,Huangcun,Yuncheng,196,Delayed,22,Janyx,Premium
+516,11/12/2022 23:55:50,GAJ,DL456,Miānwāli,Valencia,79,On Time,8,Digitube,Premium
+517,07/23/2022 17:19:35,TOX,AA123,Novogireyevo,Berkovitsa,375,Cancelled,9,Shuffletag,Premium
+518,10/23/2022 12:32:16,AXD,DL456,Nkurenkuru,Altuf’yevskiy,26,On Time,21,Fivechat,None
+519,08/02/2022 12:21:20,PPN,DL456,,Jacksonville,394,Delayed,27,Skipstorm,Standard
+520,11/20/2022 15:33:51,OKV,AA123,Tabanan,Kučevo,298,On Time,25,Blognation,Premium
+521,09/27/2022 22:16:57,MON,DL456,Darvi,Longguang,189,On Time,21,Quire,Premium
+522,04/01/2022 07:22:29,BZB,UA789,Ihuari,Malakal,330,Delayed,16,Realblab,Premium
+523,07/10/2022 08:22:48,VRS,DL456,Kolomanu,Tiout,315,On Time,20,Cogibox,Standard
+524,07/28/2022 20:30:55,EIE,AA123,Concepcion,Port Antonio,139,On Time,28,Aibox,None
+525,06/09/2022 03:58:58,NYM,UA789,Ucluelet,Henghe,373,Delayed,14,Brainbox,Premium
+526,05/05/2022 16:16:23,MQH,DL456,,Lianhe,154,On Time,25,Oba,Premium
+527,09/15/2022 01:48:24,GEW,UA789,,Suleja,275,Cancelled,13,Yamia,Standard
+528,06/20/2022 12:52:48,JSK,DL456,Chŏngju,Joypur Hāt,325,Cancelled,27,Fiveclub,Standard
+529,08/25/2022 12:15:05,OGE,AA123,Ureshino,Kėdainiai,285,Cancelled,20,Skinte,Premium
+530,01/14/2022 11:10:50,MDN,AA123,Dolní Cerekev,Kavýli,327,Delayed,5,Trudoo,Premium
+531,12/13/2022 16:06:45,XBN,UA789,,Klyuchi,34,Cancelled,1,Wikizz,Standard
+532,12/10/2022 15:02:53,TWP,UA789,,Hägersten,76,Cancelled,14,Skinix,Premium
+533,12/21/2022 01:36:11,AAS,DL456,,San Antonio,250,On Time,27,Yambee,None
+534,01/21/2022 12:01:23,RCY,UA789,Javhlant,Lidingö,375,Delayed,13,Buzzster,Standard
+535,07/26/2022 13:07:46,BXP,DL456,Bābol,Beisijia,332,Delayed,23,Kwimbee,None
+536,02/18/2022 17:35:51,SGL,UA789,Vanimo,Itaí,292,Cancelled,10,Flipstorm,Premium
+537,05/02/2022 09:38:53,PAN,AA123,Gugut,Pola,48,On Time,18,Trudeo,None
+538,12/25/2022 19:32:26,COQ,DL456,Cabrela,Yurimaguas,199,Cancelled,22,Oloo,Premium
+539,10/31/2022 02:40:15,MXL,UA789,Tysmenychany,Versailles,303,Delayed,20,Buzzbean,Premium
+540,05/08/2022 11:47:13,PUV,UA789,Saint Louis,Chagoda,91,Cancelled,21,Rhynyx,Standard
+541,08/05/2022 19:21:35,LUN,DL456,,Selorejo,136,On Time,2,Jamia,None
+542,04/09/2022 15:23:58,HCW,AA123,,Rios Frios,263,On Time,28,Devify,Standard
+543,07/09/2022 05:35:47,AJU,UA789,Yanmenguan,Stare Juchy,398,Delayed,13,Reallinks,Premium
+544,05/31/2022 22:31:28,LSU,DL456,Paatan,Kristianstad,188,On Time,18,Thoughtmix,Standard
+545,07/15/2022 17:03:35,BYV,UA789,Huilelot,Jesús María,168,Delayed,12,Mycat,Premium
+546,02/06/2022 15:20:36,JNS,UA789,Shangcunba,Xuexi,277,Cancelled,9,Skajo,Premium
+547,03/28/2022 21:41:15,GRJ,UA789,,Karangturi,21,On Time,27,Quimba,None
+548,12/21/2022 03:23:14,ANL,UA789,,Santo Niño,145,Delayed,1,Pixope,Premium
+549,04/06/2022 03:19:41,MOE,AA123,Koronadal,Pogonsili,188,Delayed,23,Brightbean,Standard
+550,04/14/2022 04:45:08,FLI,DL456,,Duzhenwan,17,On Time,13,Brainbox,None
+551,03/06/2022 15:17:40,YPX,AA123,Đưc Trọng,Stockholm,354,Cancelled,18,Tekfly,Premium
+552,05/27/2022 01:18:37,OCE,UA789,,Tucupita,393,Delayed,19,Gabspot,Premium
+553,07/27/2022 12:38:08,FSD,UA789,Lunyuk Ode,Quiaios,139,Delayed,27,Mynte,Standard
+554,04/12/2022 07:46:27,KOF,UA789,Planaltina,Si Wilai,239,Delayed,24,Pixope,Premium
+555,09/20/2022 01:43:40,PHM,AA123,Zhiletovo,Vyshniy Volochëk,344,Cancelled,4,Skinte,None
+556,05/17/2022 15:40:09,SIP,DL456,Stonewall,Lyon,207,On Time,19,Blogpad,None
+557,06/08/2022 21:41:13,WRN,UA789,Sioah,Machado,51,On Time,19,Twinder,Standard
+558,11/29/2022 21:23:04,AOK,UA789,,Naukot,311,Cancelled,3,Wordtune,Premium
+559,05/14/2022 19:22:19,SEB,AA123,Färgelanda,Xuxiake,302,On Time,4,Ozu,None
+560,06/30/2022 23:21:16,OKY,AA123,Punta Arenas,Maae,228,Cancelled,22,Kaymbo,None
+561,05/10/2022 11:52:25,GLE,UA789,Älvsjö,Qiubin,40,Delayed,24,Zoonoodle,Standard
+562,06/03/2022 01:02:55,PSH,DL456,Genengan Kulon,Meishan,39,Cancelled,3,Mita,Premium
+563,04/16/2022 03:33:24,SAY,UA789,Fernando de Noronha (Distrito Estadual),Peixing,21,Delayed,17,Zooveo,None
+564,08/01/2022 01:57:09,OKB,UA789,Puerto Bello,Kouvarás,52,Delayed,29,Wordify,Premium
+565,12/21/2022 00:56:59,PPQ,UA789,Sylhet,Yanahuanca,321,Delayed,12,Demivee,Standard
+566,02/06/2022 14:44:27,GIB,AA123,Gaoshibei,Hostavice,28,Cancelled,3,Skilith,None
+567,05/01/2022 15:52:52,WIE,AA123,,Narutochō-mitsuishi,369,On Time,9,Brainverse,Premium
+568,01/31/2022 09:20:51,KPF,DL456,Gutang,Rubirizi,130,Cancelled,24,Jaxworks,Premium
+569,07/01/2022 21:41:30,BNC,DL456,Lahoysk,Muaraenim,81,Cancelled,24,Oyonder,None
+570,08/05/2022 17:29:11,JHG,UA789,Båstad,Al Mughayyir,201,Delayed,18,Zoomdog,None
+571,07/11/2022 19:46:22,AXT,DL456,Sasnovy Bor,Banyuurip,185,Delayed,3,Avamm,Standard
+572,07/16/2022 17:32:00,SCU,UA789,Las Palmas,Nizhniy Lomov,66,Delayed,2,Eimbee,Premium
+573,06/18/2022 00:13:25,KPC,DL456,Batur Kidul,Anle,156,On Time,30,Trupe,None
+574,10/02/2022 10:08:56,MRO,AA123,Neẖalim,Velyka Mykhaylivka,236,Cancelled,21,Brainlounge,Premium
+575,10/03/2022 07:00:42,YQQ,UA789,Leigongjian,Beihe,137,Delayed,25,Eabox,None
+576,06/28/2022 12:01:43,XPP,DL456,Bezlyudivka,Ti-n-Essako,229,On Time,18,Podcat,Premium
+577,10/21/2022 05:40:36,FOA,AA123,São Roque,Jiubao,269,Cancelled,19,Kare,Premium
+578,10/27/2022 03:16:51,ZIH,DL456,Chitral,Coronel Belisle,251,On Time,26,Linkbridge,Standard
+579,02/05/2022 18:54:27,VTN,DL456,Mbala,Sámi,279,Cancelled,19,Yacero,Premium
+580,12/06/2022 13:21:22,FKL,AA123,Shangtian,Banjar Pande,224,Cancelled,24,Demimbu,Premium
+581,02/02/2022 00:58:18,GHE,DL456,Ebene,Vila Nova Sintra,80,Cancelled,25,Jetpulse,Premium
+582,08/09/2022 09:56:53,TSU,DL456,Tanjung,Villa del Rosario,38,On Time,11,Photobug,None
+583,06/05/2022 02:04:22,TCE,UA789,Lianglin,Tol’yatti,201,Delayed,11,Dabvine,Standard
+584,06/02/2022 19:18:39,BIQ,UA789,Galle,Pengjia Zhaizi,20,Cancelled,30,Topiclounge,None
+585,03/13/2022 09:46:29,YMD,UA789,Burgastai,Imbituba,121,Delayed,25,Rhybox,None
+586,11/14/2022 07:17:58,YUM,AA123,Shuiche,Pasrukrajan Satu,153,Cancelled,11,Babbleset,None
+587,02/23/2022 19:38:52,CUU,UA789,Nunhala,Zhongling,316,Delayed,26,Realmix,Premium
+588,07/30/2022 17:26:56,YET,AA123,Tugusirna,Liudong,45,On Time,25,Voonix,Standard
+589,03/03/2022 22:49:54,OMN,DL456,Łopuszna,Aygeshat,98,Delayed,9,Vidoo,None
+590,01/18/2022 03:23:38,NCA,AA123,Wu’erqihan,Takaoka,210,Cancelled,2,Mita,Premium
+591,01/01/2022 23:49:47,BRN,DL456,Nis’oni,Krajan Tengah,76,Delayed,17,Zazio,Standard
+592,05/21/2022 00:24:37,CJN,UA789,Chaoyang,Kompóti,17,On Time,25,Photofeed,Standard
+593,12/05/2022 19:17:50,JCA,DL456,Ankaran,Fada N'gourma,57,Delayed,5,Quinu,None
+594,04/25/2022 21:56:55,HGL,AA123,Yaozhuang,Strasbourg,65,On Time,20,Pixope,Premium
+595,02/25/2022 22:39:29,RWL,UA789,,Bertioga,161,On Time,11,Trilith,None
+596,01/28/2022 17:24:31,TZX,AA123,Choros,København,105,Cancelled,17,Tagfeed,Premium
+597,02/05/2022 19:31:03,PRM,UA789,Wete,San Mateo,145,Delayed,27,Eamia,Premium
+598,01/24/2022 06:57:22,SGL,DL456,,Beiyang,83,Delayed,14,Oba,Premium
+599,02/18/2022 17:46:42,ILL,DL456,Armenia,Shibli,224,Delayed,21,Katz,None
+600,08/30/2022 23:57:16,TMN,AA123,Falefa,Krajan Selatan,371,Cancelled,13,Feedfire,Premium
+601,06/03/2022 12:27:19,YAB,UA789,Taloko,Nanjing,195,Cancelled,30,Mudo,None
+602,03/20/2022 09:57:20,CNL,AA123,Montaigu,Jindong,240,On Time,3,Feedspan,Standard
+603,12/18/2022 02:19:29,BGO,DL456,Longquan,Xuân Trường,229,Delayed,4,Youfeed,Premium
+604,06/04/2022 06:04:25,OWB,DL456,Saumur,Shangyang,156,Cancelled,13,Topdrive,Standard
+605,09/26/2022 21:39:40,MLG,UA789,,Mörrum,207,Cancelled,19,Blogspan,Standard
+606,09/07/2022 11:49:15,MEO,AA123,Ncue,Promna,190,Cancelled,27,Skipfire,Premium
+607,08/01/2022 10:46:23,FUN,DL456,Sīnah,Aubenas,231,Delayed,9,Skinder,None
+608,11/04/2022 19:12:10,JIO,DL456,Aş Şalw,Newmarket,94,On Time,17,Centizu,Standard
+609,11/28/2022 18:13:21,YGB,UA789,Artemisa,Dokshytsy,171,Delayed,23,Cogibox,Premium
+610,09/03/2022 21:46:46,DRC,UA789,Paris 04,Xujiafang,168,On Time,12,Camimbo,Premium
+611,06/02/2022 14:54:51,WKA,UA789,Xiaochengzi,Dayuan,3,Delayed,30,Thoughtblab,None
+612,06/22/2022 19:32:28,KVD,UA789,Arão,Fencheng,123,Cancelled,24,Jetwire,None
+613,04/22/2022 21:15:00,MJA,UA789,Boston,Cachadinha,95,Cancelled,28,Thoughtworks,Premium
+614,04/21/2022 07:43:43,AEX,UA789,Östhammar,Telhado,179,Delayed,14,Feedmix,Standard
+615,01/23/2022 16:42:08,MNM,AA123,Hebeitun,Cibolang,280,Delayed,13,Yakitri,Premium
+616,05/27/2022 08:38:00,SXW,UA789,Molugan,Zaoshi,83,Cancelled,11,Devpulse,None
+617,01/24/2022 10:59:18,OZG,AA123,,Mulhouse,53,Delayed,1,Twitterbeat,Premium
+618,03/18/2022 07:49:30,RHG,DL456,Silveiros,Matelândia,372,Delayed,17,Flashdog,None
+619,03/24/2022 15:10:49,MDW,UA789,Itsukaichi,Novaya Lyalya,20,Cancelled,18,Twitterbridge,None
+620,12/30/2022 16:11:32,IUE,DL456,Ciomas,Al Ḩarf,92,Delayed,3,Blognation,Standard
+621,04/04/2022 19:35:17,AYG,AA123,,Abay,69,Delayed,2,Photolist,Standard
+622,05/30/2022 23:16:56,BKS,UA789,Maulavi Bāzār,Sanyi,119,On Time,14,Yata,None
+623,03/24/2022 06:03:16,LBQ,AA123,Mahalapye,Minuyan,189,Cancelled,4,Thoughtstorm,Premium
+624,03/08/2022 02:15:00,FTW,DL456,,Dizhai,189,On Time,7,Realbuzz,Premium
+625,09/25/2022 15:11:59,FNC,DL456,,Lisui,119,On Time,16,Jazzy,Premium
+626,10/08/2022 19:49:12,YSC,DL456,Al Khamīs,Saint John,56,Delayed,23,Wikibox,Premium
+627,05/25/2022 15:54:27,CRW,UA789,Yuefeng,Zgurovka,128,Delayed,30,Agimba,Standard
+628,11/03/2022 17:32:50,HCQ,AA123,Zlataritsa,Akat Amnuai,37,On Time,10,Realbuzz,Standard
+629,04/14/2022 11:10:08,IXB,AA123,Guadalupe,Verkhov’ye,256,Delayed,8,Aibox,Premium
+630,10/18/2022 23:49:31,WRG,UA789,Talakag,La Francia,282,Delayed,25,Thoughtbeat,Premium
+631,08/12/2022 21:45:30,DEA,AA123,Duobao,Yên Lập,237,Cancelled,18,Einti,Standard
+632,05/19/2022 05:25:04,KCR,UA789,Lévis,Hali,334,Cancelled,5,Quinu,Premium
+633,12/26/2022 21:04:15,NAP,DL456,Siasi,Kaiyuan,337,On Time,24,Blogspan,None
+634,11/01/2022 00:57:31,GEL,DL456,Krajan Gebangan,Fao Rai,224,Delayed,21,Leexo,Premium
+635,03/13/2022 17:17:55,OLK,DL456,Xiashitai,Sayang Lauq,5,Delayed,27,Brightbean,None
+636,12/23/2022 18:27:11,BZL,AA123,Sandaowan,Sila Lat,342,On Time,10,Oyoloo,Premium
+637,01/01/2022 02:48:52,0,UA789,Lemenhe,Toyonaka,338,On Time,2,Fliptune,Premium
+638,11/08/2022 12:54:36,EAE,UA789,Nagqu,Cimanggu,349,Cancelled,22,Yakidoo,None
+639,10/08/2022 09:10:13,YWR,UA789,Teculután,Nuevo Emperador,53,Cancelled,26,Wikibox,Premium
+640,09/27/2022 10:43:17,TDA,DL456,Koceljeva,Xijiadian,262,On Time,13,Oodoo,Premium
+641,01/17/2022 20:41:43,MGD,UA789,Phonsavan,Vide,52,Cancelled,28,Oyope,Standard
+642,09/03/2022 15:06:38,WOE,UA789,,Ambarakaraka,147,On Time,19,Mydeo,None
+643,01/24/2022 17:22:57,TES,AA123,Janowiec,Tuamese,199,Delayed,14,Youopia,None
+644,12/10/2022 22:57:07,TNA,AA123,,Chunhua,299,Cancelled,1,Ntag,Standard
+645,12/21/2022 09:09:31,IMQ,UA789,Garoua,Columbus,167,On Time,8,Avaveo,Premium
+646,07/09/2022 14:53:11,MSF,UA789,Kyaikto,Dul’durga,354,On Time,3,Skaboo,Premium
+647,07/24/2022 01:55:02,SZZ,AA123,Mahalapye,Udachny,179,Cancelled,11,Mycat,Standard
+648,01/08/2022 01:29:37,YRJ,DL456,Tagiura,Bobigny,253,On Time,11,Jaxbean,Premium
+649,01/19/2022 21:33:21,BHY,DL456,,Bangus Kulon,207,On Time,13,Skinder,Standard
+650,07/02/2022 21:15:14,CDS,UA789,Matamey,Fuchūchō,28,On Time,7,Kwinu,Standard
+651,06/05/2022 03:30:12,MPL,DL456,Jiabei,Ipoti,154,Delayed,22,Realblab,None
+652,08/17/2022 10:51:26,PEY,AA123,Arnhem,Murcia,102,On Time,30,Fadeo,Premium
+653,10/28/2022 01:06:43,TUD,UA789,Benešov nad Ploučnicí,Beijós,358,On Time,5,Jetwire,Premium
+654,07/20/2022 06:18:58,BPC,UA789,,Viña del Mar,261,Cancelled,19,Gigashots,Premium
+655,11/17/2022 00:08:51,YRV,DL456,Kilmacanoge,Wulan,286,On Time,8,Mybuzz,Standard
+656,04/12/2022 14:01:34,XSC,AA123,Satka,Xikou,74,On Time,30,Meembee,None
+657,11/19/2022 08:40:49,OSI,DL456,Tegalwero,Kota Trieng,25,On Time,11,Voonte,Premium
+658,08/11/2022 07:01:22,ZEG,UA789,Bailiang,Nizhnyaya Salda,104,Cancelled,29,Midel,Standard
+659,09/02/2022 16:26:57,HIF,AA123,Al Marj,Kyenjojo,89,Cancelled,30,Latz,None
+660,04/17/2022 20:42:13,TZA,UA789,Lijia,Dianbu,283,Delayed,13,Yodoo,Standard
+661,12/22/2022 18:20:44,FOC,DL456,Chişinău,Parry Sound,82,Cancelled,19,Voonix,Premium
+662,04/09/2022 07:45:13,SGK,AA123,Thorpe,Rantauambacang,357,Delayed,25,Agimba,Standard
+663,10/03/2022 17:48:53,MZT,AA123,Malalag,Rostov,252,Cancelled,7,Trilia,None
+664,11/11/2022 06:30:11,SNT,AA123,Kembang,Taiobeiras,154,On Time,22,Buzzbean,Standard
+665,06/26/2022 08:26:36,MXY,DL456,Wang Sai Phun,Shali,1,On Time,14,Edgeclub,Premium
+666,08/25/2022 07:47:34,JYR,UA789,Tayum,Obanazawa,109,Cancelled,6,Talane,Standard
+667,01/13/2022 04:08:46,YVV,DL456,Bento Gonçalves,Hedong,92,Delayed,21,Quaxo,None
+668,07/05/2022 15:47:31,CEF,UA789,Oujda,Mauren,377,Cancelled,26,Dabjam,Premium
+669,03/05/2022 16:04:20,KIN,UA789,Xuanhua,Nobres,271,Cancelled,4,Vinder,Premium
+670,02/26/2022 08:32:59,ATI,UA789,Macedo de Cavaleiros,La Ligua,308,Delayed,10,Gabtype,Standard
+671,07/24/2022 16:14:13,QDC,AA123,,Guimba,180,Delayed,20,Skipfire,None
+672,01/21/2022 06:06:44,CBG,UA789,Chantal,Jeong,288,Cancelled,14,Browsetype,Premium
+673,08/25/2022 11:20:29,YCT,UA789,,Al Judayrah,66,Cancelled,27,Photojam,Premium
+674,05/15/2022 15:38:36,BIM,DL456,Yuanquan,Yovon,152,Cancelled,19,Photobug,None
+675,03/02/2022 11:53:23,YIE,UA789,Pak Chong,Negeriagung,38,Delayed,3,Skippad,None
+676,04/16/2022 11:16:10,PRH,AA123,Erandique,Gampingan,368,On Time,15,Feedspan,Premium
+677,05/11/2022 19:28:04,OLZ,AA123,Honghe,Mingjiu,308,Cancelled,15,Realcube,Premium
+678,09/03/2022 02:24:52,QSR,AA123,Beaconsfield,Dasanlian Lauk,67,Cancelled,18,Mymm,Standard
+679,04/23/2022 10:05:08,FOO,AA123,Si Racha,Ovacik,245,On Time,8,Meetz,Standard
+680,07/14/2022 23:42:59,PAB,DL456,Bahorí,Rangmanten,274,Cancelled,9,Photolist,Standard
+681,11/13/2022 13:35:05,ISB,UA789,Chiguayante,Baraguá,335,On Time,21,Devbug,Standard
+682,01/08/2022 04:36:26,UKB,DL456,Tolbazy,Baltimore,284,On Time,15,Livetube,Standard
+683,07/07/2022 18:25:08,0,AA123,Lobos,São Pedro do Estoril,72,Delayed,19,Quinu,Premium
+684,07/07/2022 05:22:33,GIC,UA789,Houping,Diego de Almagro,269,Delayed,27,Fiveclub,Standard
+685,02/17/2022 07:02:25,SIK,UA789,Kamieniec Wrocławski,Bugembe,265,On Time,8,Realcube,Standard
+686,09/10/2022 11:29:09,YKQ,AA123,Vila Chã do Monte,Saint-Ambroise,393,Delayed,29,Divanoodle,None
+687,11/27/2022 07:05:04,ROH,DL456,,Пласница,178,On Time,10,Browsedrive,Premium
+688,12/16/2022 19:16:35,GOA,AA123,Huangjindong,Anzi,123,On Time,25,Mudo,None
+689,12/28/2022 14:48:08,BUX,DL456,Tofa,Khun Han,338,Cancelled,7,Oyoba,Standard
+690,09/03/2022 10:51:57,IMF,AA123,Libas,Makati City,28,On Time,26,Omba,Standard
+691,06/10/2022 18:51:57,TMB,AA123,Babirik,Tugusirna,381,Cancelled,24,Skippad,None
+692,02/16/2022 18:28:51,DBB,UA789,Banjar Buahan,Erátyra,308,On Time,23,Skinte,None
+693,03/14/2022 07:00:14,FYT,UA789,,Novosheshminsk,345,Cancelled,25,Ainyx,None
+694,02/14/2022 13:05:49,SYN,AA123,Putrajaya,Meiyao,304,On Time,13,Realblab,None
+695,08/08/2022 16:59:21,ALO,UA789,Sang-e Chārak,Hashtgerd,67,On Time,30,Tagpad,Standard
+696,07/03/2022 02:37:38,QSF,UA789,New York City,Olszanica,158,Cancelled,7,Miboo,Standard
+697,02/18/2022 13:20:02,BDY,DL456,Cincinnati,Cai Doi Vam,380,Cancelled,15,Yacero,Premium
+698,09/29/2022 19:59:03,TKT,AA123,Aldeia da Mata,Iwase,294,On Time,26,Riffwire,None
+699,08/08/2022 07:45:55,DZU,DL456,,Calanogas,98,Delayed,11,Bubbletube,Standard
+700,11/02/2022 23:30:31,CAD,AA123,Ningmute,Stockholm,217,Delayed,18,Fadeo,Standard
+701,10/04/2022 01:42:18,PMK,DL456,Arcangel,Bolinao,340,Delayed,29,Thoughtstorm,Standard
+702,02/26/2022 11:38:11,TAJ,UA789,Ibotirama,Gaoqiao,309,On Time,23,Quinu,None
+703,03/31/2022 22:09:47,YLB,AA123,,Stráž,75,Cancelled,6,Quimm,Standard
+704,04/24/2022 17:23:05,TML,AA123,Azara,Maoping,159,Cancelled,9,Demivee,None
+705,04/02/2022 17:40:57,JED,AA123,Shijing,Athens,21,Cancelled,3,Skibox,Premium
+706,07/14/2022 17:59:55,UKB,UA789,Xintang,Magangué,221,Cancelled,1,Zoombox,Premium
+707,09/02/2022 07:39:46,DAD,DL456,Oebai,Pingshui,92,Delayed,8,Yoveo,None
+708,07/08/2022 05:37:25,GUE,AA123,Toulouse,Liên Chiểu,102,Cancelled,20,Youtags,None
+709,11/12/2022 05:41:37,THN,DL456,Stenungsund,Vidoši,215,Cancelled,14,Buzzbean,Standard
+710,03/24/2022 08:37:51,CUD,DL456,Nantes,Casa Nova,275,Cancelled,22,DabZ,None
+711,07/22/2022 07:55:10,CWX,DL456,Sharga,Youhua,106,On Time,19,Skidoo,None
+712,11/15/2022 09:44:30,TYZ,UA789,Tangshan,Baro,109,Cancelled,11,Zoovu,Premium
+713,12/09/2022 20:28:43,GYP,DL456,Shalinskoye,Tmourghout,69,Cancelled,4,BlogXS,Standard
+714,03/22/2022 21:58:15,BKB,UA789,Luqa,Hua Sai,110,On Time,16,Eire,Premium
+715,11/11/2022 10:09:42,DPU,AA123,Kirkop,Rizal,86,On Time,22,Eabox,Standard
+716,08/27/2022 19:09:45,MDQ,AA123,,Lañgub,39,Cancelled,21,Midel,None
+717,11/29/2022 20:03:12,EVE,DL456,Nyima,Huangpo,47,On Time,30,Zoozzy,Premium
+718,10/26/2022 08:31:52,KRB,AA123,Sedlarevo,Dornava,302,On Time,30,Youspan,Standard
+719,04/23/2022 07:58:07,IKK,UA789,K’anak’erravan,Placer,201,Cancelled,29,InnoZ,None
+720,04/13/2022 05:40:09,BFA,DL456,Sukarame,Gaojialing,372,Cancelled,25,Jaxbean,Premium
+721,01/06/2022 21:43:43,EZV,DL456,Néa Smýrni,Mugango,259,On Time,25,Meejo,Standard
+722,09/21/2022 09:02:16,JGN,UA789,Nikinci,Huangtan,67,Cancelled,17,Meedoo,Premium
+723,06/02/2022 04:30:25,ZFU,DL456,Načeradec,Polanka Wielka,318,Delayed,17,Jayo,Standard
+724,05/05/2022 00:50:25,FGD,DL456,Biharamulo,Gang,349,On Time,28,Shufflebeat,Standard
+725,01/12/2022 03:25:59,NHK,UA789,Netishyn,Tây Ninh,237,Cancelled,9,Cogilith,Premium
+726,04/13/2022 03:08:13,ABE,DL456,Dolní Dvořiště,Algarrobo,289,On Time,17,Flashpoint,Standard
+727,02/13/2022 18:16:13,ILE,DL456,San Francisco,El Paso,233,Cancelled,5,Kazio,Standard
+728,12/10/2022 21:16:58,DPU,DL456,Xiangtan,Ushiku,318,Cancelled,25,Pixope,Standard
+729,04/19/2022 13:39:10,KLL,AA123,Maswarah,Solotcha,10,Cancelled,26,Twimm,Standard
+730,06/07/2022 16:52:33,BTM,AA123,Kantyshevo,Umeå,318,Cancelled,20,Pixonyx,Standard
+731,08/31/2022 02:23:48,TUF,UA789,,Vidnoye,217,On Time,23,Avamba,Standard
+732,07/13/2022 15:54:08,MQQ,UA789,Songgang-dong,Liopétri,324,On Time,29,Babblestorm,Premium
+733,05/24/2022 12:48:40,HTM,AA123,Lunéville,Sawo,249,Cancelled,3,Fliptune,Standard
+734,12/13/2022 00:15:59,TAY,UA789,,Zhongzhai,388,Delayed,12,Wikibox,Standard
+735,12/10/2022 10:58:53,NNX,AA123,,Ganlin,57,On Time,29,Babbleset,Standard
+736,05/30/2022 09:25:36,BZH,DL456,Alangilanan,Xiaoshi,40,On Time,14,Yata,Standard
+737,06/29/2022 18:26:30,ULZ,DL456,Regidor,Hammam-Lif,256,On Time,17,Rhycero,Standard
+738,05/01/2022 02:51:21,ECO,UA789,Aitape,Kvissleby,212,On Time,29,Meedoo,Standard
+739,05/28/2022 11:22:12,YGB,DL456,Lorengau,Xiping,327,On Time,5,Jabbercube,Premium
+740,05/09/2022 22:50:38,CKW,UA789,Jasionów,Drahichyn,230,Delayed,24,Dynazzy,None
+741,07/31/2022 11:17:55,RSX,DL456,Tlogoagung,Abreus,147,On Time,14,Tavu,Premium
+742,06/11/2022 20:14:31,KCT,AA123,Lushuihe,Benghazi,71,On Time,29,Yata,None
+743,11/02/2022 11:44:33,XMW,UA789,Vitry-sur-Seine,Pushkinskiye Gory,393,On Time,17,Talane,Standard
+744,09/25/2022 22:39:27,AXS,DL456,Tlutup,Laagri,155,On Time,6,Bluezoom,Standard
+745,03/18/2022 23:08:18,NOS,DL456,Peoria,Paipa,78,On Time,14,Photobug,Standard
+746,11/16/2022 10:51:56,AZI,UA789,Nongoma,Corupá,259,Cancelled,11,Trilith,Premium
+747,11/29/2022 18:31:50,AUS,DL456,Pitogo,Pervoural’sk,366,Cancelled,2,Feedspan,Premium
+748,06/14/2022 19:29:26,GUV,AA123,Zorak,Oubei,286,Delayed,9,Dabshots,None
+749,08/24/2022 07:47:45,BVU,DL456,Bangkalan,Basey,341,Delayed,29,Oyoba,Premium
+750,01/26/2022 14:50:28,HSV,AA123,Mutum Biyu,Anzihao,186,Delayed,8,Eimbee,None
+751,09/16/2022 05:00:18,FEN,AA123,Ensanche Luperón,Xishaping,74,On Time,8,Realblab,Premium
+752,04/10/2022 07:40:53,YWB,UA789,Rora Timur,Didi Lilo,243,Cancelled,29,Edgepulse,Premium
+753,04/02/2022 13:33:23,MHB,AA123,Nālūt,Pengchang,360,Delayed,22,Vinder,Premium
+754,04/20/2022 21:19:13,ZFW,DL456,,Dębowa Łąka,114,On Time,11,Twitterbridge,None
+755,01/19/2022 02:58:48,GNZ,AA123,Östersund,Ceibas,75,Delayed,6,Zazio,None
+756,11/10/2022 15:52:08,DPU,UA789,,Sankwia,229,Cancelled,24,Vipe,Standard
+757,11/11/2022 04:01:44,EAE,UA789,Florencio Sánchez,Matara,169,Delayed,30,Gevee,Premium
+758,03/11/2022 20:50:50,NAT,AA123,Hamburg,Huyuan,138,Cancelled,29,Flashset,Standard
+759,11/23/2022 01:46:23,ROP,DL456,Nanjing,Manhete,1,On Time,18,Meetz,None
+760,11/20/2022 13:58:41,RDE,DL456,Markowa,Ash Shuhadā’,270,Cancelled,28,Zoozzy,None
+761,01/22/2022 17:43:10,BVF,DL456,Ílion,Hafrsfjord,56,On Time,6,Lazzy,Standard
+762,06/19/2022 23:28:15,ARU,UA789,,Crossfield,212,Cancelled,4,Gabtype,Standard
+763,08/09/2022 02:00:22,CDO,DL456,,Daguo,85,Delayed,26,Tagopia,Standard
+764,02/26/2022 12:39:04,IWA,DL456,Saint-Brieuc,Pocokan Satu,240,On Time,18,Jaxnation,Standard
+765,02/13/2022 13:33:13,KHY,DL456,Changgou,Neyrīz,381,Cancelled,2,Fanoodle,Standard
+766,06/13/2022 11:15:45,BWY,UA789,Xiangying,Moussoro,264,Delayed,29,Yakijo,Standard
+767,10/03/2022 22:13:35,VRO,DL456,Qiganjidie,Vilarinho da Castanheira,45,On Time,14,Devcast,Standard
+768,07/22/2022 08:30:25,IMT,DL456,Frederiksberg,Miraflores,184,Delayed,11,Blogtag,Standard
+769,04/17/2022 15:18:17,SKH,DL456,Heqiao,Lugang,308,Cancelled,11,Zoombox,Standard
+770,09/08/2022 07:33:34,0,DL456,Pivovarikha,Slobodskoy,15,On Time,13,Buzzbean,Premium
+771,11/03/2022 19:56:23,DVR,AA123,Uppsala,Santa Adélia,53,Delayed,14,Cogidoo,Premium
+772,08/26/2022 10:41:09,AKQ,DL456,Eslāmābād,El Carmen,172,Delayed,12,Rhynoodle,None
+773,07/07/2022 14:17:15,AOI,UA789,Zudun,Longtian,396,Cancelled,15,Youspan,None
+774,03/24/2022 22:22:35,IFL,DL456,Maszkienice,Jovellar,225,Cancelled,5,Youfeed,Standard
+775,04/25/2022 06:35:32,RBA,DL456,Prokhladnyy,Chyšky,17,On Time,10,Kaymbo,None
+776,08/23/2022 23:45:44,LOM,UA789,Cocachacra,La Lima,145,Delayed,21,Yacero,Premium
+777,02/16/2022 23:52:25,KGI,UA789,Katima Mulilo,Chengdu,34,On Time,17,Eare,None
+778,11/25/2022 08:12:42,YLY,AA123,Nguékhokh,Syriam,128,On Time,17,Thoughtstorm,Premium
+779,06/07/2022 20:27:44,BTF,AA123,Tilburg,Puerto Parra,232,On Time,1,Jatri,Standard
+780,02/18/2022 11:14:12,TFS,DL456,São Gabriel da Cachoeira,Viana do Alentejo,97,Cancelled,19,Divanoodle,Premium
+781,02/01/2022 21:26:28,KMT,DL456,Kruševica,Vũ Quang,107,On Time,2,Einti,Standard
+782,07/23/2022 10:58:05,ZEM,UA789,Guancangping,Stare Juchy,104,Cancelled,11,Realcube,Standard
+783,11/03/2022 10:59:44,MAD,AA123,Timbuktu,Gémeos,332,Delayed,7,Jaxnation,Premium
+784,07/03/2022 19:45:03,HIM,AA123,Alto Barinas,Gouxaria,77,Delayed,2,Brainbox,Premium
+785,10/29/2022 15:35:36,REZ,AA123,Parigi,Navashino,8,Cancelled,2,Tazzy,None
+786,07/29/2022 18:02:10,JDO,DL456,Jetak Kulon,La Plata,337,Cancelled,23,Gigazoom,Premium
+787,10/24/2022 00:30:13,ALS,UA789,Martanesh,Furmanov,348,Cancelled,29,Voomm,Premium
+788,05/13/2022 19:02:44,YKN,UA789,Kotawaikabubak,Essang,242,On Time,2,Photobug,None
+789,10/10/2022 12:58:50,AUS,AA123,Masaran,Fiorentino,106,Delayed,22,Skinte,Standard
+790,10/19/2022 19:15:53,VAN,AA123,Bejuco,Gaogongdao,160,On Time,7,Yambee,Standard
+791,11/13/2022 18:58:37,LVA,UA789,Sanxiang,Larvik,214,Delayed,13,Jetpulse,Premium
+792,03/23/2022 10:10:48,RNJ,AA123,Huiwan,Yueyahe,41,Cancelled,30,Janyx,Premium
+793,10/18/2022 07:17:37,GFL,UA789,A dos Negros,Papineauville,254,Cancelled,21,Zoonoodle,None
+794,02/05/2022 10:36:29,MTE,DL456,Zhangjiayuan,Zaječov,295,On Time,8,Talane,Standard
+795,02/26/2022 01:30:26,VTB,AA123,Ust-Kamenogorsk,Mungyeong,33,Delayed,3,Einti,Premium
+796,11/26/2022 10:27:19,SKH,AA123,Lamphun,Laocheng,78,Delayed,12,Centizu,None
+797,12/03/2022 22:46:22,MHC,AA123,Keruguya,Timeng,71,Delayed,6,Gabtype,None
+798,08/14/2022 03:39:06,LWE,UA789,Kyustendil,Avignon,152,On Time,14,Trudoo,None
+799,07/17/2022 23:11:40,SQK,UA789,Cowansville,Holoubkov,341,Delayed,21,Katz,None
+800,03/30/2022 01:14:34,MEF,AA123,Guaíba,Virojoki,305,Delayed,15,Zoomdog,Standard
+801,08/20/2022 09:39:43,DLS,AA123,El Paso,Caucaia,276,Delayed,23,Skaboo,Premium
+802,05/29/2022 04:00:51,KRM,DL456,Lubāna,Villanueva,5,Cancelled,23,Pixoboo,Premium
+803,07/24/2022 09:58:11,VLV,AA123,Okotoks,Mandaue City,282,Cancelled,21,Latz,Premium
+804,12/24/2022 08:56:27,KPR,UA789,,Aragua de Barcelona,327,On Time,6,Rhynyx,Standard
+805,11/11/2022 16:51:42,SUM,DL456,Baisha,Konstantynów Łódzki,284,Delayed,12,Buzzshare,None
+806,04/21/2022 19:15:40,JAE,DL456,Nacimiento,Labé,206,On Time,5,Fadeo,None
+807,03/13/2022 14:06:23,NUK,DL456,Tsévié,Évry,238,Delayed,14,Yakidoo,Standard
+808,05/13/2022 02:30:53,ACU,AA123,Houbai,Bulnes,130,Cancelled,6,Trudoo,Standard
+809,02/02/2022 12:57:25,DOP,DL456,Tanjungampalu,Calaba,254,Cancelled,29,Realbridge,Premium
+810,09/18/2022 10:16:08,GKE,AA123,Monte,Paojan,71,On Time,28,Jatri,Premium
+811,10/15/2022 18:08:21,YFJ,AA123,Remscheid,San Jerónimo,220,On Time,30,Twitterbridge,None
+812,12/12/2022 04:07:21,MHE,AA123,Sumaré,Nowosielce-Gniewosz,159,Cancelled,2,Tagopia,Standard
+813,11/13/2022 16:06:12,HNC,DL456,Uchaly,Xinshi,109,On Time,17,Fivechat,Standard
+814,06/08/2022 00:14:40,ACT,UA789,Henglan,Gualeguaychú,351,Delayed,10,Yakijo,None
+815,07/12/2022 15:51:00,DLY,AA123,Maojiagang,Shuangpu,393,On Time,8,Divavu,Standard
+816,12/28/2022 17:25:53,POZ,UA789,São Sebastião,Xiayunling,317,Cancelled,10,Meevee,None
+817,12/24/2022 04:06:25,TRL,DL456,Moravský Písek,Nor Gyugh,9,Delayed,29,Youspan,Premium
+818,07/13/2022 07:40:47,CLB,DL456,Oporapa,Shaxi,276,Cancelled,20,Zoomdog,Standard
+819,07/18/2022 09:24:09,KKD,UA789,,Podbrdo,25,Cancelled,11,Oyoloo,None
+820,08/08/2022 05:19:00,KCF,AA123,Rozwadza,Heshan,156,Delayed,9,Ntag,Standard
+821,09/26/2022 15:58:17,KWA,DL456,,Markaz-e Woluswalī-ye Āchīn,216,Cancelled,6,Twinder,Standard
+822,03/14/2022 21:14:48,AHJ,DL456,El Rosario,Planaltina,280,Delayed,13,Shufflester,Standard
+823,05/17/2022 15:51:09,KPI,UA789,Klinan,Pamanukan,181,On Time,21,Yozio,None
+824,03/08/2022 04:07:58,CMF,AA123,Nangkasari,Kuching,210,Cancelled,3,Quinu,Premium
+825,07/14/2022 13:27:45,MDY,DL456,Sacramento,Ash Shaddādah,69,Cancelled,18,Browsezoom,None
+826,08/28/2022 11:36:08,PHE,AA123,,Vaughan,198,On Time,29,Innojam,Premium
+827,06/12/2022 10:42:31,UBA,AA123,,Gangu Chengguanzhen,79,Delayed,17,Buzzdog,None
+828,06/12/2022 07:29:17,BEF,DL456,Ålesund,Ganyesa,396,On Time,22,Thoughtblab,Premium
+829,12/23/2022 01:06:06,SFC,DL456,Fantino,Stockholm,66,Cancelled,28,Demizz,Standard
+830,03/24/2022 13:39:41,LYM,AA123,Bocos,Paranapanema,59,Delayed,1,Oozz,None
+831,02/20/2022 19:57:46,YKG,DL456,,Akron,124,Cancelled,27,Rhynyx,None
+832,10/11/2022 17:09:10,GTP,DL456,Velykyi Bereznyi,Tingo María,344,Delayed,10,Abata,Premium
+833,03/02/2022 13:59:53,TLN,UA789,Zhongfan,Puan,341,On Time,27,Zoomdog,Premium
+834,02/08/2022 09:17:58,PYH,DL456,Batas Barat,Kantharalak,284,Delayed,24,Skilith,None
+835,02/07/2022 23:50:58,SWF,UA789,Nikel’,Buffalo,256,On Time,25,Yoveo,Standard
+836,04/30/2022 16:24:38,PPZ,DL456,Otllak,Singosari,32,On Time,6,Realmix,None
+837,05/18/2022 15:05:53,TBM,AA123,Batobato,Behābād,279,On Time,8,Devcast,None
+838,08/23/2022 22:29:16,BJP,AA123,Sembung,Navoiy,249,On Time,14,Zoonder,None
+839,05/26/2022 02:55:28,EBD,UA789,,Gampang,372,On Time,26,Brightdog,Standard
+840,10/17/2022 11:06:57,VDP,AA123,,Wanbu,289,Delayed,19,Quimm,Standard
+841,01/02/2022 14:28:53,OBX,DL456,Santa Vitória do Palmar,Soho,204,On Time,3,Youtags,None
+842,06/21/2022 05:41:27,HWO,AA123,Troyes,Rybatskoye,11,Delayed,22,Einti,None
+843,02/16/2022 02:48:10,MXY,DL456,Madimba,Zongzhai,206,Delayed,16,Shuffledrive,Standard
+844,04/19/2022 11:39:52,PVW,UA789,,Kapasan,100,On Time,7,Yabox,Standard
+845,09/19/2022 08:42:24,RBO,UA789,Agboville,La Trinidad,82,Cancelled,7,Browsecat,None
+846,01/31/2022 22:44:38,DUE,AA123,Zolotkovo,Rožmitál pod Třemšínem,293,On Time,23,Kwideo,Standard
+847,02/20/2022 16:44:10,ILR,DL456,Piraju,Juan L. Lacaze,53,Delayed,4,Flipstorm,None
+848,08/23/2022 07:05:28,BZI,UA789,Vitoria-Gasteiz,Dijon,218,On Time,7,Plambee,Premium
+849,03/13/2022 02:20:08,KEX,AA123,Nelas,Yiwa,191,Delayed,10,Skajo,Standard
+850,05/07/2022 09:21:40,SLJ,AA123,Caijiang,Fuzihe,378,Cancelled,23,Meevee,Standard
+851,03/09/2022 11:48:49,NCU,DL456,Cileuya,Gozdnica,317,Cancelled,1,Realcube,None
+852,07/23/2022 16:32:34,BPK,UA789,Kiel,Ialoveni,306,On Time,11,Fivespan,None
+853,03/05/2022 10:22:18,BAM,DL456,Chencai,Golopau,153,Delayed,8,Eire,Standard
+854,07/06/2022 02:53:56,MMO,DL456,Vilya,Tsaghkunk’,277,Delayed,19,Aibox,Standard
+855,11/04/2022 00:47:52,GMM,AA123,San Martín de los Andes,Bobowa,160,Cancelled,6,Eazzy,None
+856,08/24/2022 10:50:45,SYR,DL456,,Nukuoro,214,Delayed,17,Dazzlesphere,None
+857,04/18/2022 21:35:47,CAV,AA123,Boguszów-Gorce,Kilindoni,213,Cancelled,3,Gabvine,Premium
+858,11/28/2022 04:16:28,KPB,UA789,Liuhe,Jardín América,303,Cancelled,2,Photofeed,Premium
+859,01/05/2022 09:48:15,CZL,UA789,København,Tovačov,186,Delayed,10,Wikido,Standard
+860,09/30/2022 17:03:07,LBM,UA789,Pueblo Nuevo,Río Hondo,205,Delayed,8,Plajo,Premium
+861,02/24/2022 06:26:32,ZPH,UA789,Gangshangji,Kromy,48,Cancelled,10,Dabfeed,None
+862,03/20/2022 07:09:43,HAD,UA789,Repelón,Kobylí,297,Delayed,22,Fanoodle,Standard
+863,01/21/2022 06:32:00,DIQ,AA123,Doropeti,Wińsko,387,On Time,9,Wikizz,Premium
+864,08/04/2022 06:16:57,HOX,AA123,Tomari,Nice,202,Cancelled,6,Flipbug,Premium
+865,08/19/2022 02:23:52,SHE,AA123,Paccha,Sarkand,27,On Time,23,Linklinks,None
+866,05/06/2022 17:24:46,YBS,DL456,Luoxi,Huangdu,288,On Time,11,Skibox,Standard
+867,08/04/2022 13:54:06,KGG,DL456,Tam Bình,Huangcun,125,On Time,23,Quimba,Premium
+868,02/06/2022 18:14:28,JAQ,AA123,Wudian,Kendalngupuk,255,Cancelled,11,Realbuzz,None
+869,03/31/2022 08:34:24,DCF,DL456,San Miguel,Al Khafsah,165,On Time,11,Tagtune,None
+870,02/10/2022 23:59:32,FUK,DL456,Zhaixi,Bensonville,66,On Time,13,Roomm,None
+871,06/11/2022 12:52:48,MDO,AA123,Whittier,Bibis,278,Delayed,26,Jabberstorm,Premium
+872,07/01/2022 16:13:42,VAV,AA123,Dapdap,Cradock,292,Cancelled,28,LiveZ,None
+873,11/27/2022 02:16:42,CUZ,UA789,Shibganj,Usatove,363,Delayed,16,Centimia,None
+874,01/27/2022 16:16:37,RGI,AA123,Heishui,Chigorodó,238,Cancelled,7,Rhynoodle,None
+875,12/29/2022 09:43:25,NKP,DL456,Algés,Lubień,308,Cancelled,23,Rooxo,None
+876,10/27/2022 11:45:41,UMY,UA789,,Songhu,59,Cancelled,17,Flashpoint,None
+877,12/14/2022 17:17:15,TBR,AA123,Bungkulan,Santarém,15,Cancelled,25,Topdrive,Standard
+878,04/22/2022 21:12:06,BQT,UA789,Mayskiy,Jixian,183,Cancelled,27,Ozu,Standard
+879,05/29/2022 06:19:13,REG,AA123,Grojec,Point Pedro,216,Delayed,25,Flipbug,None
+880,11/05/2022 06:21:27,INZ,DL456,Barreira,Nungwi,333,Cancelled,19,Mymm,Premium
+881,09/24/2022 06:25:22,EBB,UA789,Batuidu,Sigeng,185,Delayed,12,Babbleblab,None
+882,01/09/2022 11:00:11,CAY,UA789,Dengzhou,Jintian,89,Delayed,1,Voonix,Standard
+883,04/15/2022 21:21:13,HEK,DL456,Tsaghkahovit,Voskhod,138,Delayed,14,Talane,None
+884,03/19/2022 19:47:34,DSI,DL456,Ciekek,Örebro,357,Cancelled,18,Voomm,Premium
+885,04/28/2022 13:37:55,BRE,UA789,Pniewy,Lengkongsari,30,Cancelled,18,Dabjam,Standard
+886,09/23/2022 22:40:57,DCU,UA789,Pare,Menongue,277,Delayed,30,Voonder,Standard
+887,08/27/2022 15:43:35,GNY,UA789,Kumane,Guluoshan,347,Cancelled,14,Skyble,Standard
+888,10/08/2022 07:22:38,NBH,AA123,Pórto Chéli,Lukashin,241,On Time,6,Skibox,Premium
+889,12/27/2022 08:51:52,BHB,DL456,Delingha,Quince Mil,150,On Time,22,Feedfish,Standard
+890,11/06/2022 23:57:14,KAA,DL456,Saint-Lô,Kalávryta,279,Delayed,17,Layo,Standard
+891,01/21/2022 19:33:38,MUB,DL456,Andalucía,Tonghong,86,On Time,30,Jaxbean,Premium
+892,09/05/2022 05:32:48,PSD,DL456,Zhangzhen,San Fernando,267,Cancelled,30,Vinte,Premium
+893,09/09/2022 01:30:43,PCC,AA123,Ferkessédougou,Benhong,131,On Time,28,Twinte,None
+894,05/05/2022 20:41:21,DFI,UA789,Leijiadian,Surkh Bilandī,45,Cancelled,13,Camido,Standard
+895,02/03/2022 19:34:42,0,DL456,Karnobat,Messina,88,On Time,11,Tagfeed,Premium
+896,04/23/2022 14:44:11,AYM,AA123,Kampungraja,Yeysk,350,Delayed,6,Realmix,None
+897,05/15/2022 08:33:14,GVP,UA789,Kandun,Xiongjia,366,Delayed,12,JumpXS,Premium
+898,02/28/2022 07:33:51,OTI,AA123,,Pipa,280,On Time,14,Roombo,None
+899,09/22/2022 11:28:15,PSY,UA789,Unisław,Bingerville,269,Cancelled,7,Talane,Premium
+900,06/06/2022 12:37:33,IDH,UA789,Baz,Khok Charoen,363,Cancelled,16,Kare,Standard
+901,12/30/2022 10:17:33,DOM,UA789,Daet,Kedungwaru,142,Cancelled,25,Topicshots,Premium
+902,01/03/2022 07:35:05,HLA,DL456,Skórzec,Żórawina,46,Cancelled,17,Topicstorm,Premium
+903,10/04/2022 00:54:16,TGN,UA789,Sheffield,Qianwei,105,On Time,18,Blogpad,None
+904,12/20/2022 22:06:13,ATA,AA123,Kryry,Malbug,386,On Time,3,Feedfish,Premium
+905,05/07/2022 11:09:51,MWQ,DL456,Phanom Sarakham,Plato,165,Delayed,11,Twinder,Premium
+906,08/02/2022 12:56:25,YGW,UA789,Burhānuddin,Bantul,338,Cancelled,17,Browsetype,None
+907,01/24/2022 04:13:12,RAB,AA123,Liudong,Chengbei,61,On Time,1,Livepath,None
+908,03/10/2022 06:44:02,BFU,AA123,Niejiahe,Köping,262,Cancelled,2,Abatz,None
+909,02/10/2022 04:24:05,BBM,AA123,Abnūb,Liuzikou,364,Delayed,10,Photolist,Standard
+910,08/11/2022 13:16:11,TQL,UA789,Inowrocław,Montes Velhos,115,Delayed,28,Jaxspan,Premium
+911,07/28/2022 15:02:45,HTN,DL456,San Fernando del Valle de Catamarca,Bateria,302,On Time,18,Oba,Premium
+912,02/01/2022 14:17:32,SWX,DL456,Quimperlé,Kensington,273,On Time,21,Wordtune,None
+913,08/20/2022 08:12:48,KDO,DL456,Yangxu,Soras,33,Delayed,5,Jatri,Standard
+914,07/13/2022 14:05:03,YHT,DL456,,Peñal,206,On Time,1,Babbleopia,Standard
+915,03/15/2022 23:43:51,DRI,AA123,Yuqunweng,Stradbally,159,On Time,24,Leenti,None
+916,02/06/2022 06:52:46,BZU,UA789,Jiucaigou,Yaransk,151,Delayed,16,Innotype,Premium
+917,09/25/2022 21:16:45,LDS,DL456,Mabugang,Tangwāni,61,On Time,17,Dabfeed,Standard
+918,02/18/2022 21:07:49,VCT,UA789,,Szamotuły,329,On Time,11,Realbuzz,Standard
+919,10/31/2022 10:14:02,YDO,DL456,Pomacanchi,Hallstahammar,90,Cancelled,28,Zazio,Standard
+920,01/21/2022 16:21:07,ACR,UA789,Ipís,Paarl,192,On Time,20,Rhybox,Standard
+921,01/22/2022 01:14:14,NYM,AA123,Rabāţ-e Sangī-ye Pā’īn,Miaogou,284,Cancelled,17,Fivespan,Standard
+922,03/31/2022 01:57:55,RBJ,UA789,,Oltintopkan,125,Cancelled,30,Skipfire,None
+923,08/28/2022 00:46:06,BGZ,AA123,Cape Town,Pandan,315,Cancelled,8,Browsedrive,Standard
+924,03/25/2022 19:27:05,KNF,DL456,Blagnac,Krajan,364,Delayed,1,Zoomcast,Premium
+925,02/17/2022 01:27:45,YKL,DL456,Pokachi,Kadukandel,381,On Time,7,Flashset,Standard
+926,11/24/2022 02:47:24,ZKP,UA789,Žirovnica,Butigui,181,Delayed,26,Lazz,None
+927,07/25/2022 21:33:42,BBT,DL456,Bangeran,San Antonio,67,Cancelled,13,Dabvine,Standard
+928,09/27/2022 19:41:24,CGO,AA123,Eirol,Nynäshamn,386,Delayed,16,Zoomdog,Premium
+929,11/24/2022 16:55:27,AYP,DL456,Changqiao,Belung Satu,24,Delayed,27,Devpoint,Premium
+930,07/03/2022 22:51:49,VQQ,DL456,Łopuszno,Pegongan,304,Cancelled,7,Flashset,None
+931,10/05/2022 13:29:07,GTY,AA123,Mastaiciai,Ibara,289,On Time,20,Skinte,None
+932,09/11/2022 22:07:48,TPA,UA789,Malakand,Quisao,208,Delayed,23,Skiba,Premium
+933,02/25/2022 05:11:35,THO,AA123,La Habana Vieja,Maoming,394,Cancelled,3,Twitterwire,None
+934,01/02/2022 08:30:56,LFQ,DL456,Laizhou,Ghār al Milḩ,48,On Time,13,Twitterwire,None
+935,08/01/2022 15:48:23,HMO,UA789,Enrile,Kaabong,153,Cancelled,26,Shuffledrive,None
+936,10/14/2022 20:46:57,YDQ,DL456,San Antonio del Monte,Slatina,70,Cancelled,21,Buzzdog,None
+937,10/08/2022 18:04:48,ANS,DL456,Qushi’an,Purda,76,Cancelled,26,Bluezoom,Standard
+938,07/08/2022 18:51:56,RHL,DL456,,Iza,350,Delayed,5,Avavee,Standard
+939,09/16/2022 05:44:26,AUM,DL456,Tatebayashi,Tianqian,171,On Time,21,Zoomlounge,None
+940,05/19/2022 20:35:54,HKV,UA789,Trebisht-Muçinë,Tver,298,Cancelled,3,Babbleset,Premium
+941,02/16/2022 23:50:45,HTZ,AA123,,Parchowo,213,Cancelled,12,Thoughtmix,Standard
+942,08/20/2022 14:44:43,PDI,UA789,Imrīsh,Sepanjang,50,Cancelled,9,Feedfish,Standard
+943,07/14/2022 10:05:13,WAD,DL456,Jinzhou,Thanh Ba,141,On Time,18,Eazzy,None
+944,05/30/2022 15:31:05,SFM,DL456,Santo Antônio de Posse,Bowang,123,Cancelled,1,Youtags,None
+945,12/27/2022 10:46:27,YCG,UA789,Narukan,Hevlín,95,Delayed,11,Mydeo,Standard
+946,08/30/2022 20:55:05,RFD,AA123,Kalate,Maji,148,Cancelled,25,Yodo,Premium
+947,08/30/2022 09:45:15,RDT,DL456,Kohila,Lijia,26,Delayed,13,Thoughtworks,None
+948,01/25/2022 14:54:47,YWK,UA789,Farafenni,Houzhai,353,On Time,20,Linktype,None
+949,02/28/2022 05:26:48,SLI,DL456,,Orekhovo-Borisovo Severnoye,145,Delayed,7,Einti,Standard
+950,03/26/2022 00:28:00,HVE,AA123,Futang,Cihaladan,397,Cancelled,9,Tekfly,None
+951,04/24/2022 05:10:45,FSC,UA789,Nūrābād,Kukës,36,On Time,22,Bluejam,Premium
+952,02/01/2022 19:39:03,SMA,UA789,Nerokoúros,Kahrīz,215,Delayed,14,Divape,Premium
+953,12/26/2022 10:50:13,BGK,AA123,Puente Nacional,Lolak,275,Delayed,1,Skinix,Standard
+954,09/09/2022 19:41:24,PXM,UA789,Hezhang,Xiushan,194,Cancelled,13,Oyonder,Standard
+955,10/15/2022 03:54:41,HKY,UA789,Xiachengzi,Lebu,73,On Time,22,Dabvine,Premium
+956,03/19/2022 21:05:58,HKV,UA789,Babakankiray,Izumo,243,Delayed,16,Quimm,Standard
+957,03/30/2022 17:26:23,SDU,DL456,Bondowoso,Navashino,64,Delayed,25,Dabshots,Standard
+958,03/10/2022 10:29:12,MUC,DL456,Naranjito,Kariat Arkmane,337,Cancelled,25,Feedbug,None
+959,01/30/2022 21:09:55,PPK,UA789,Klimavichy,Gaotang,44,Delayed,3,Linklinks,Premium
+960,08/04/2022 10:16:46,0,UA789,Banepa,Tân Việt,351,Delayed,23,Eayo,None
+961,06/30/2022 13:53:16,BGW,AA123,Niort,Dhrosiá,25,Cancelled,3,Roodel,None
+962,05/05/2022 16:02:36,NZC,UA789,Echarate,Fuerte,63,Cancelled,5,Thoughtbridge,None
+963,07/13/2022 10:39:05,GLW,DL456,Gucun,Várzea,252,Cancelled,25,Rhynoodle,Standard
+964,03/19/2022 15:59:49,YMH,DL456,Chakou,Wanareja,383,On Time,27,Blognation,None
+965,03/19/2022 12:05:44,GRM,DL456,Ḩuraytān,Georgiyevskaya,68,Cancelled,12,Babblestorm,None
+966,09/03/2022 18:46:53,ELV,UA789,Airdrie,Gunungtua,85,On Time,3,Devpoint,Standard
+967,04/18/2022 08:39:40,ULN,AA123,Bibiani,Hōfu,249,Delayed,8,Dabfeed,Standard
+968,04/21/2022 15:46:21,LHC,AA123,Lidzbark,Borovskiy,75,Delayed,24,Skibox,None
+969,02/17/2022 10:07:25,IMD,DL456,Karangan,Hualgayoc,137,Delayed,1,Jabberbean,Standard
+970,09/25/2022 23:07:10,THV,DL456,Fresno,Tbilisskaya,348,On Time,11,Kamba,Premium
+971,09/23/2022 03:55:36,DRF,UA789,Aş Şaff,Hetang,17,Cancelled,2,Jaxworks,Standard
+972,05/26/2022 07:08:53,IOA,DL456,Shilipu,Sang-e Chārak,227,Delayed,6,Wordify,None
+973,10/13/2022 16:30:03,VLV,UA789,Xiaoyi,Oropéndolas,360,On Time,22,Jabbersphere,None
+974,09/15/2022 00:51:58,CAT,UA789,Santa Clara,Ibabang Tayuman,10,On Time,16,Tanoodle,None
+975,04/30/2022 07:41:55,QIT,AA123,,Springfield,106,Delayed,29,Eamia,Premium
+976,10/18/2022 04:09:06,YQZ,DL456,Vlkoš,Churovichi,40,On Time,3,Quatz,None
+977,12/22/2022 07:08:59,GRR,DL456,Araraquara,Ранковце,67,Cancelled,13,Meevee,None
+978,02/21/2022 04:43:38,BJG,DL456,Polanica-Zdrój,Ongi,272,Cancelled,8,Skidoo,Standard
+979,02/14/2022 01:21:01,FSS,DL456,Sumberbakti,Ponta Delgada,165,Delayed,3,Bluezoom,Premium
+980,01/16/2022 12:31:18,LAH,DL456,Saint-Gratien,Pujocucho,99,On Time,27,Buzzdog,None
+981,01/08/2022 09:36:45,UMT,DL456,Puncaksempur,Tabunok,214,Cancelled,27,Mynte,None
+982,07/09/2022 00:32:01,ERG,UA789,Podbuzh,Panbang,78,On Time,19,Linktype,None
+983,06/22/2022 22:09:11,MZK,DL456,,Lawdar,14,Delayed,21,Youspan,Premium
+984,10/19/2022 00:40:39,KWY,DL456,Ballylinan,Wanglian,239,Delayed,10,Meevee,None
+985,11/10/2022 16:04:10,DNH,DL456,Yangxunqiao,Ngoc Hon Doc,179,Delayed,24,Gevee,None
+986,01/18/2022 01:31:35,SYV,DL456,Dadap,Ketanen,378,Delayed,18,Blogspan,None
+987,02/05/2022 09:08:35,BAN,DL456,Al Majāridah,Trzcinica,73,Cancelled,25,Brainbox,Standard
+988,09/03/2022 23:26:27,MHZ,UA789,Baixi,Marianowo,206,On Time,29,Tagtune,None
+989,08/26/2022 09:25:32,LCN,AA123,Manicahan,Manassas,396,On Time,30,Bubbletube,None
+990,02/13/2022 09:57:50,LRS,UA789,Fuji,Punta Gorda,128,Cancelled,15,Ailane,Premium
+991,09/17/2022 04:39:44,BVO,UA789,Jargalant,Sanfang,382,Cancelled,14,Meeveo,Premium
+992,01/19/2022 01:13:41,MWH,AA123,,Kot Sultan,107,Cancelled,25,Thoughtworks,None
+993,11/24/2022 06:48:31,SHQ,AA123,Farīdpur,Citeluk,332,Cancelled,2,Cogibox,None
+994,06/22/2022 20:44:32,DOX,UA789,Xueshan,Oepuah,225,On Time,6,Abatz,Premium
+995,02/18/2022 04:28:25,NEW,UA789,Rafaï,Lovrenc na Pohorju,241,On Time,4,Quamba,None
+996,08/15/2022 07:09:34,VAG,AA123,Kopidlno,Planken,48,Delayed,9,Aibox,Premium
+997,03/03/2022 17:16:03,CPX,UA789,,San Juan,209,On Time,1,Edgetag,None
+998,05/26/2022 18:06:27,TBW,AA123,Bojongloa,Columbia,382,Delayed,25,Feedfish,Premium
+999,10/03/2022 15:20:23,MJD,DL456,Kista,Santa Lucía,216,Cancelled,13,Agimba,None
+1000,12/12/2022 05:31:12,IKP,UA789,Kaltan,Nālūt,16,Cancelled,23,Jaxbean,None
